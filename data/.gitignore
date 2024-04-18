@@ -1,0 +1,5 @@
+*
+!.gitignore
+!crawled
+!database
+!documents
