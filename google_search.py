@@ -45,9 +45,9 @@ def scrape_content(url):
     content = response.text
 
     # Save HTML content to a file
-    filename = f"scraped_html_files/{url.replace('/', '_').replace(':', '_').replace('.', '_')}.html"
-    with open(filename, 'w', encoding='utf-8') as f:
-        f.write(content)
+    # filename = f"scraped_html_files/{url.replace('/', '_').replace(':', '_').replace('.', '_')}.html"
+    # with open(filename, 'w', encoding='utf-8') as f:
+    #     f.write(content)
 
     return {'content': content}
 
