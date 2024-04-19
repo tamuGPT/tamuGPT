@@ -1,0 +1,5747 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+
+    <!--Meta Tags-->
+
+    <title>Graduation - Aggie One Stop</title>
+
+    <meta charset="utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="description" content="Learn how to apply for graduation as a student at Texas A&amp;M University.">
+
+    <meta name="keywords" content="">
+
+    <meta name="theme-color" content="#500000" />
+
+    <link rel="manifest" href="/Scripts/manifest.json">
+
+
+
+    <meta property="og:title">
+
+    <meta property="og:description" content="Learn how to apply for graduation as a student at Texas A&amp;M University.">
+
+    <meta property="og:image" content="">
+
+    <meta property="og:url" content="https://tamu.edu">
+
+    <meta name="twitter:card" content="card_name">
+
+
+
+    <!-- Google Tag Manager -->
+
+<script>
+
+    (function (w, d, s, l, i) {
+
+        w[l] = w[l] || []; w[l].push({
+
+            'gtm.start':
+
+                new Date().getTime(), event: 'gtm.js'
+
+        }); var f = d.getElementsByTagName(s)[0],
+
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+
+    })(window, document, 'script', 'dataLayer', 'GTM-TT73544');
+
+</script>
+
+<!-- End Google Tag Manager -->
+
+    <!--Local Style Sheets-->
+
+    
+
+<!--Static/CDN StyleSheets-->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+
+
+
+
+
+
+<!--Local Style Sheets-->
+
+<link href="//pitocdncss.as.tamu.edu/Content/Espresso-V1A/FancyStyles.css" rel="stylesheet">
+
+<link href="//pitocdncss.as.tamu.edu/Content/Espresso-V1A/FancyTables.css" rel="stylesheet">
+
+<link href="//pitocdncss.as.tamu.edu/Content/Espresso-V1A/EspressoV1-a.min.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+<link href="/Kentico/Content/Widgets/RichText/froala_style.css" rel="stylesheet">
+
+
+
+
+
+<!--Fonts-->
+
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400|Open+Sans:400,700|Oswald:200,300,400,500,600,700" rel="stylesheet">
+
+    <!--Render Site specific Style Sheets if any-->
+
+    
+
+</head>
+
+<body id="espresso-breve">
+
+    <!-- Google Tag Manager (noscript) -->
+
+<noscript>
+
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT73544"
+
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+
+</noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!--Begin Header-->
+
+    <header class="breve" id="breve" data-ktc-search-exclude>
+
+        <div id="skip"><a href="#main" class="sr-only sr-only-focusable">Skip to main content</a></div>
+
+        <a class="scrollTop btn btn-dark" href="#main"><em class="fa fa-chevron-up fa-3" aria-hidden="true"></em><span>Scroll to Top</span></a>
+
+
+
+
+
+        <!--Begin Title Bar-->
+
+        <div class="header-bar container" id="title-bar">
+
+            <div class="row">
+
+
+
+                <!--Site Title-->
+
+                <div class="col-lg-3 col-8 site-title">
+
+                    <h1 class="sr-only">Aggie One Stop</h1>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315 54" style="overflow:visible; vertical-align: middle; padding: 1rem 0; max-width: 350px;">
+
+    <defs>
+
+        <style>
+
+            .maroon {
+
+                fill: #500000;
+
+            }
+
+
+
+            .white {
+
+                fill: #fff;
+
+            }
+
+
+
+            .graybev {
+
+                fill: #b1b3b6;
+
+            }
+
+
+
+            svg a{
+
+                text-decoration: none;
+
+            }
+
+
+
+            .subtitle_oneline {
+
+                font-size: 11.5px;
+
+                font-family: "Open Sans", sans-serif;
+
+                font-weight: 600;
+
+                letter-spacing: 0.05em;
+
+                text-transform: uppercase;
+
+            }
+
+
+
+            .title_oneline {
+
+                font-size: 23px;
+
+                font-family: "Open Sans", sans-serif;
+
+            }
+
+        </style>
+
+    </defs>
+
+    <title>Aggie One Stop</title>
+
+    <g id="logobox">
+
+        <g>
+
+            <rect class="maroon" width="53.58" height="54" />
+
+            <a href="https://www.tamu.edu">
+
+                <g>
+
+                    <polygon class="white" points="46.46 21.49 42.48 21.49 42.25 21.49 42.15 21.7 39.26 27.71 36.37 21.7 36.27 21.49 36.04 21.49 32.19 21.49 31.83 21.49 31.83 21.86 31.83 23.91 31.83 24.27 32.19 24.27 32.85 24.27 32.85 32.87 32.14 32.87 31.77 32.87 31.77 33.24 31.77 35.29 31.77 35.65 32.14 35.65 36.46 35.65 36.82 35.65 36.82 35.29 36.82 33.24 36.82 32.87 36.46 32.87 35.71 32.87 35.71 26.77 38.94 33.42 39.27 34.1 39.6 33.42 42.86 26.75 42.86 32.87 42.15 32.87 41.78 32.87 41.78 33.24 41.78 35.29 41.78 35.65 42.15 35.65 46.46 35.65 46.83 35.65 46.83 35.29 46.83 33.24 46.83 32.87 46.46 32.87 45.72 32.87 45.72 24.27 46.46 24.27 46.83 24.27 46.83 23.91 46.83 21.86 46.83 21.49 46.46 21.49" />
+
+                    <path class="white" d="M33.11,49.65H32L28.23,41H29V38.23h-6V41h.83L20,49.65H18.48v2.79h5.45V49.65h-.8l.62-1.43h4.5l.62,1.43H28v2.79h5.45V49.65ZM27,45.44H25L26,43Z" transform="translate(-11.73 -16.79)" />
+
+                    <polygon class="white" points="41.89 10.69 11.59 10.69 11.17 10.69 11.17 11.11 11.17 19.2 11.17 19.62 11.59 19.62 16.82 19.62 17.24 19.62 17.24 19.2 17.24 16.2 23.7 16.2 23.7 37.53 20.7 37.53 20.28 37.53 20.28 37.95 20.28 43.18 20.28 43.6 20.7 43.6 32.78 43.6 33.2 43.6 33.2 43.18 33.2 37.95 33.2 37.53 32.78 37.53 29.78 37.53 29.78 16.2 36.2 16.2 36.2 19.17 36.2 19.59 36.62 19.59 41.89 19.59 42.31 19.59 42.31 19.17 42.31 11.11 42.31 10.69 41.89 10.69" />
+
+                    <g>
+
+                        <polygon class="graybev" points="30.67 40.02 31.95 38.7 31.95 42.32 30.67 41.09 30.67 40.02" />
+
+                        <polygon class="graybev" points="28.54 38.8 27.26 40.06 27.26 13.68 28.54 14.96 28.54 38.8" />
+
+                        <polygon class="graybev" points="13.73 13.22 12.42 11.94 40.42 11.94 38.77 13.22 13.73 13.22" />
+
+                        <polygon class="graybev" points="41.1 18.41 39.82 17.19 39.82 13.93 41.1 12.62 41.1 18.41" />
+
+                    </g>
+
+                </g>
+
+                <path class="maroon" d="M67.21,69.72a1.08,1.08,0,1,1,1.08,1.07A1.08,1.08,0,0,1,67.21,69.72Zm1.89,0a.82.82,0,1,0-.81.86A.83.83,0,0,0,69.1,69.72Zm-1.23-.62h.45c.3,0,.45.1.45.36a.31.31,0,0,1-.32.33l.33.53h-.23l-.32-.52H68.1v.52h-.23Zm.23.52h.2c.13,0,.25,0,.25-.18s-.13-.16-.25-.16h-.2Z" transform="translate(-11.73 -16.79)" />
+
+            </a>
+
+        </g>
+
+    </g>
+
+    <g id="TAMU">
+
+        <a href="https://www.tamu.edu">
+
+            <text class="subtitle_oneline" transform="translate(68.29 17.63)">Texas A&amp;M University</text>
+
+            </a>
+
+
+
+    </g>
+
+    <g id="collegename">
+
+        <a href="/">
+
+            <text class="title_oneline" transform="translate(68.29 42.68)">Aggie One Stop</text>
+
+            </a>
+
+
+
+    </g>
+
+</svg>
+
+                </div>
+
+
+
+                <!--Search Link-->
+
+                <div class="col-9 search-link">
+
+                    <button id="search-toggle" aria-expanded="false"
+
+                            class="nav-toggle float-end d-none d-lg-block"
+
+                            data-target="#search-bar"
+
+                            data-focus=".searchBox input[type='text']" type="button">
+
+                        Search <i class="fa fa-search" aria-hidden="true"></i>
+
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--End Title Bar-->
+
+        <!--Begin Primary Navigation-->
+
+        <div class="header-bar container-fluid" id="primary-nav-bar">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <!--Primary Navigation-->
+
+                    <nav id="primary-nav" aria-label="Primary menu">
+
+                        <div class=" nav-wrapper">
+
+                            <button class="nav-toggle d-lg-none" id="btn-open-menu" data-target="#mobile-side-nav" type="button" aria-expanded="false">
+
+                                <em class="fa fa-bars" aria-hidden="true"></em>Menu
+
+                            </button>
+
+                            <!--Mega Menu-->
+
+                            <div class='megamenu'><button class="accessible-megamenu-toggle" aria-expanded="false"><span class="sr-only">Toggle Navigation</span><span></span><span></span><span></span></button><ol class="accessible-megamenu"><li class="accessible-megamenu-top-nav-item">
+<a href=/information-for class="CMSMenuLink"aria-expanded="false" aria-haspopup="true">Information for</a>
+<div disabled class="accessible-megamenu-panel cols-4"><h2><a href=/information-for class="CMSMenuLink"  tabindex="0" >Information for</a>
+</h2><ol class="accessible-megamenu"><li class="accessible-megamenu-panel-group">
+<h3><a href=/information-for/future-students class="CMSMenuLink"   tabindex="0" >Future Students</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/information-for/admitted-students class="CMSMenuLink"   tabindex="0" >Admitted Students</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/information-for/current-students class="CMSMenuLink"   tabindex="0" >Current Students</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/information-for/former-students class="CMSMenuLink"   tabindex="0" >Former Students</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/information-for/veterans class="CMSMenuLink"   tabindex="0" >Military Education Benefits</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/information-for/student-athletes class="CMSMenuLink"   tabindex="0" >Student-Athletes</a>
+</h3></li>
+</ol></div></li>
+<li class="accessible-megamenu-top-nav-item">
+<a href=/registration-and-records class="CMSMenuLink"aria-expanded="false" aria-haspopup="true">Registration and Records</a>
+<div disabled class="accessible-megamenu-panel cols-4"><h2><a href=/registration-and-records class="CMSMenuLink"  tabindex="0" >Registration and Records</a>
+</h2><ol class="accessible-megamenu"><li class="accessible-megamenu-panel-group">
+<h3><a href=/registration-and-records/transcripts-and-diplomas class="CMSMenuLink"   tabindex="0" >Transcripts and Diplomas</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/registration-and-records/transcripts-and-diplomas/order-transcripts class="CMSMenuLink"   tabindex="0" >Order Transcripts</a>
+</li>
+<li>
+<a href=/registration-and-records/transcripts-and-diplomas/enrollment-and-degree-verification class="CMSMenuLink"   tabindex="0" >Enrollment and Degree Verification</a>
+</li>
+<li>
+<a href=/registration-and-records/transcripts-and-diplomas/diploma-and-transcript-notary-services class="CMSMenuLink"   tabindex="0" >Diploma and Transcript Notary Services</a>
+</li>
+<li>
+<a href=/registration-and-records/transcripts-and-diplomas/duplicate-diplomas class="CMSMenuLink"   tabindex="0" >Duplicate Diplomas</a>
+</li>
+<li>
+<a href=/registration-and-records/transcripts-and-diplomas/student-records-policy class="CMSMenuLink"   tabindex="0" >Student Records Policy</a>
+</li>
+<li>
+<a href=/registration-and-records/transcripts-and-diplomas/reverse-transfer class="CMSMenuLink"   tabindex="0" >Reverse Transfer</a>
+</li>
+<li>
+<a href=/registration-and-records/transcripts-and-diplomas/send-transcripts class="CMSMenuLink"   tabindex="0" >Send Transcripts</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/registration-and-records/classes class="CMSMenuLink"   tabindex="0" >Classes</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/registration-and-records/classes/registration-information class="CMSMenuLink"   tabindex="0" >Registration Information</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/late-drop-or-add class="CMSMenuLink"   tabindex="0" >Adding or Dropping Classes</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/checking-for-holds class="CMSMenuLink"   tabindex="0" >Checking for Holds</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/enrollment-status-definitions class="CMSMenuLink"   tabindex="0" >Enrollment Status Definitions</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/final-examination-schedules class="CMSMenuLink"   tabindex="0" >Final Examination Schedules</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/registering-for-courses-on-s-u-basis class="CMSMenuLink"   tabindex="0" >Registering for Courses on S/U Basis</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/student-worker-early-registration class="CMSMenuLink"   tabindex="0" >Student Worker Early Registration</a>
+</li>
+<li>
+<a href=/registration-and-records/classes/withdrawing-from-the-university class="CMSMenuLink"   tabindex="0" >Withdrawing from the University</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/registration-and-records/degree-programs class="CMSMenuLink"   tabindex="0" >Degree Programs</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/registration-and-records/degree-programs/undergraduate-degree-planner class="CMSMenuLink"   tabindex="0" >Undergraduate Degree Planner</a>
+</li>
+<li>
+<a href=/registration-and-records/degree-programs/adding-and-removing-a-minor class="CMSMenuLink"   tabindex="0" >Adding and Removing a Minor</a>
+</li>
+<li>
+<a href=/registration-and-records/degree-programs/change-of-major class="CMSMenuLink"   tabindex="0" >Change of Major</a>
+</li>
+<li>
+<a href=/registration-and-records/degree-programs/undergraduate-double-majors class="CMSMenuLink"   tabindex="0" >Undergraduate Double Majors</a>
+</li>
+<li>
+<a href=/registration-and-records/degree-programs/undergraduate-double-degrees class="CMSMenuLink"   tabindex="0" >Undergraduate Double Degrees</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/registration-and-records/grades class="CMSMenuLink"   tabindex="0" >Grades</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/registration-and-records/grades/how-to-calculate-gpa class="CMSMenuLink"   tabindex="0" >How to Calculate GPA</a>
+</li>
+<li>
+<a href=/registration-and-records/grades/parent-guardian-access class="CMSMenuLink"   tabindex="0" >Parent or Guardian Access</a>
+</li>
+<li>
+<a href=/registration-and-records/grades/historic-grading-scale class="CMSMenuLink"   tabindex="0" >Historic Grading Scale</a>
+</li>
+</ol></li>
+</ol></div></li>
+<li class="accessible-megamenu-top-nav-item">
+<a href=/financial-aid class="CMSMenuLink"aria-expanded="false" aria-haspopup="true">Scholarships and Financial Aid</a>
+<div disabled class="accessible-megamenu-panel cols-4"><h2><a href=/financial-aid class="CMSMenuLink"  tabindex="0" >Scholarships and Financial Aid</a>
+</h2><ol class="accessible-megamenu"><li class="accessible-megamenu-panel-group">
+<h3><a href=/financial-aid/types-of-aid class="CMSMenuLink"   tabindex="0" >Types of Aid</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/financial-aid/types-of-aid/grants class="CMSMenuLink"   tabindex="0" >Grants</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/scholarships class="CMSMenuLink"   tabindex="0" >Scholarships</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/loans class="CMSMenuLink"   tabindex="0" >Loans</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/student-employment class="CMSMenuLink"   tabindex="0" >Student Employment</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/tuition-waivers-and-exemptions class="CMSMenuLink"   tabindex="0" >Tuition Waivers and Exemptions</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/additional-aid-opportunities class="CMSMenuLink"   tabindex="0" >Additional Aid Opportunities</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/emergency-relief-funds-covid-19-guidance class="CMSMenuLink"   tabindex="0" >Emergency Relief Funds & COVID-19 Guidance</a>
+</li>
+<li>
+<a href=/financial-aid/types-of-aid/student-athletes class="CMSMenuLink"   tabindex="0" >Student-Athletes</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/financial-aid/apply-for-aid class="CMSMenuLink"   tabindex="0" >Apply for Aid</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/financial-aid/apply-for-aid/fafsa class="CMSMenuLink"   tabindex="0" >FAFSA</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/tasfa class="CMSMenuLink"   tabindex="0" >TASFA</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/isfaa class="CMSMenuLink"   tabindex="0" >ISFAA</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/processing-your-aid class="CMSMenuLink"   tabindex="0" >Processing Your Aid</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/maintaining-eligibility class="CMSMenuLink"   tabindex="0" >Maintaining Eligibility</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/verification class="CMSMenuLink"   tabindex="0" >Verification</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/financial-aid-faq class="CMSMenuLink"   tabindex="0" >Financial Aid FAQ</a>
+</li>
+<li>
+<a href=/financial-aid/apply-for-aid/program-of-study-faq class="CMSMenuLink"   tabindex="0" >Program of Study FAQ</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/financial-aid/veterans class="CMSMenuLink"   tabindex="0" >Military Education Benefits</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/financial-aid/veterans/benefits-and-waivers class="CMSMenuLink"   tabindex="0" >Benefits and Waivers</a>
+</li>
+<li>
+<a href=/financial-aid/veterans/veteran-financial-aid-faq class="CMSMenuLink"   tabindex="0" >Veteran Financial Aid FAQ</a>
+</li>
+<li>
+<a href=/financial-aid/veterans/veteran-scholarships class="CMSMenuLink"   tabindex="0" >Veteran Scholarships</a>
+</li>
+<li>
+<a href=/financial-aid/veterans/forms-and-media class="CMSMenuLink"   tabindex="0" >Forms and Media</a>
+</li>
+<li>
+<a href=/financial-aid/veterans/college-financing-plan class="CMSMenuLink"   tabindex="0" >College Financing Plan</a>
+</li>
+<li>
+<a href=/financial-aid/veterans/maritime-academy class="CMSMenuLink"   tabindex="0" >Maritime Academy</a>
+</li>
+</ol></li>
+</ol></div></li>
+<li class="accessible-megamenu-top-nav-item">
+<a href=/billing-and-payments class="CMSMenuLink"aria-expanded="false" aria-haspopup="true">Billing and Payments</a>
+<div disabled class="accessible-megamenu-panel cols-4"><h2><a href=/billing-and-payments class="CMSMenuLink"  tabindex="0" >Billing and Payments</a>
+</h2><ol class="accessible-megamenu"><li class="accessible-megamenu-panel-group">
+<h3><a href=/billing-and-payments/cost-and-tuition-rates class="CMSMenuLink"   tabindex="0" >Cost and Tuition Rates</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/billing-and-payments/cost-and-tuition-rates/tuition-charged-for-excess-credit-hours class="CMSMenuLink"   tabindex="0" >Tuition Charged for Excess Credit Hours</a>
+</li>
+<li>
+<a href=/billing-and-payments/cost-and-tuition-rates/three-peat class="CMSMenuLink"   tabindex="0" >Three Peat</a>
+</li>
+<li>
+<a href=/billing-and-payments/cost-and-tuition-rates/undergraduate-cost-of-attendance class="CMSMenuLink"   tabindex="0" >Undergraduate Cost of Attendance</a>
+</li>
+<li>
+<a href=/billing-and-payments/cost-and-tuition-rates/graduate-cost-of-attendance class="CMSMenuLink"   tabindex="0" >Graduate Cost of Attendance</a>
+</li>
+<li>
+<a href=/billing-and-payments/cost-and-tuition-rates/professional-cost-of-attendance class="CMSMenuLink"   tabindex="0" >Professional Cost of Attendance</a>
+</li>
+<li>
+<a href=/billing-and-payments/cost-and-tuition-rates/tuition-insurance class="CMSMenuLink"   tabindex="0" >Tuition Insurance</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/billing-and-payments/residency-for-in-state-tuition class="CMSMenuLink"   tabindex="0" >Residency for In-State Tuition</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/billing-and-payments/residency-for-in-state-tuition/establishing-residency class="CMSMenuLink"   tabindex="0" >Establishing Residency</a>
+</li>
+<li>
+<a href=/billing-and-payments/residency-for-in-state-tuition/immigration-status class="CMSMenuLink"   tabindex="0" >Immigration Status</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/billing-and-payments/paying-your-bill class="CMSMenuLink"   tabindex="0" >Paying Your Bill</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/billing-and-payments/paying-your-bill/due-dates class="CMSMenuLink"   tabindex="0" >Due Dates</a>
+</li>
+<li>
+<a href=/billing-and-payments/paying-your-bill/payment-plan class="CMSMenuLink"   tabindex="0" >Payment Plan</a>
+</li>
+<li>
+<a href=/billing-and-payments/paying-your-bill/international-payments class="CMSMenuLink"   tabindex="0" >International Payments</a>
+</li>
+<li>
+<a href=/billing-and-payments/paying-your-bill/third-party-sponsor-billing class="CMSMenuLink"   tabindex="0" >Third Party Sponsor Billing</a>
+</li>
+<li>
+<a href=/billing-and-payments/paying-your-bill/texas-guaranteed-tuition-fund class="CMSMenuLink"   tabindex="0" >Texas Guaranteed Tuition Fund</a>
+</li>
+<li>
+<a href=/billing-and-payments/paying-your-bill/texas-tuition-promise-fund class="CMSMenuLink"   tabindex="0" >Texas Tuition Promise Fund</a>
+</li>
+<li>
+<a href=/billing-and-payments/paying-your-bill/educational-tax-credits class="CMSMenuLink"   tabindex="0" >Educational Tax Credits</a>
+</li>
+</ol></li>
+</ol></div></li>
+<li class="accessible-megamenu-top-nav-item  currentPage">
+<a href=/graduation class="CMSMenuLink" aria-current="page" aria-expanded="false" aria-haspopup="true">Graduation</a>
+<div disabled class="accessible-megamenu-panel cols-4"><h2><a href=/graduation class="CMSMenuLink"  tabindex="0" >Graduation</a>
+</h2><ol class="accessible-megamenu"><li class="accessible-megamenu-panel-group  currentPage">
+<h3><a href=/graduation/schedule class="CMSMenuLink" aria-current="page"    tabindex="0" >Schedule</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/graduation/schedule/important-dates-and-deadlines class="CMSMenuLink"   tabindex="0" >Important Dates and Deadlines for Degree Candidates</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/applying-for-your-degree class="CMSMenuLink"   tabindex="0" >Applying for Your Degree</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/graduation-checklist class="CMSMenuLink"   tabindex="0" >Graduation Checklist</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/graduation-clearance class="CMSMenuLink"   tabindex="0" >Graduation Clearance</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/degree-requirement-verification class="CMSMenuLink"   tabindex="0" >Degree Requirement Verification</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/outstanding-balances class="CMSMenuLink"   tabindex="0" >Outstanding Balances</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/things-to-order-for-ceremony class="CMSMenuLink"   tabindex="0" >Things to Order</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/diploma-information class="CMSMenuLink"   tabindex="0" >Diploma Information</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/what-to-expect,-day-of class="CMSMenuLink"   tabindex="0" >What to Expect, Day of</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/graduation/what-to-expect,-day-of/frequently-asked-questions class="CMSMenuLink"   tabindex="0" >Frequently Asked Questions</a>
+</li>
+<li>
+<a href=/graduation/what-to-expect,-day-of/tips-and-tricks-for-a-successful-day class="CMSMenuLink"   tabindex="0" >Tips and Tricks for a Successful Day</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/disability-accommodations class="CMSMenuLink"   tabindex="0" >Disability Accommodations</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/graduation-with-honors class="CMSMenuLink"   tabindex="0" >Graduation with Honors</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/military-commissioning class="CMSMenuLink"   tabindex="0" >Military Commissioning</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/graduate-interdisciplinary-programs class="CMSMenuLink"   tabindex="0" >Graduate Interdisciplinary Programs</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/tuition-rebate class="CMSMenuLink"   tabindex="0" >Tuition Rebate</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/graduation-cancellation class="CMSMenuLink"   tabindex="0" >Graduation Cancellation</a>
+</h3></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/graduation/former-students class="CMSMenuLink"   tabindex="0" >Former Students</a>
+</h3></li>
+</ol></div></li>
+<li class="accessible-megamenu-top-nav-item">
+<a href=/resources class="CMSMenuLink"aria-expanded="false" aria-haspopup="true">Resources</a>
+<div disabled class="accessible-megamenu-panel cols-4"><h2><a href=/resources class="CMSMenuLink"  tabindex="0" >Resources</a>
+</h2><ol class="accessible-megamenu"><li class="accessible-megamenu-panel-group">
+<h3><a href=/resources/forms-and-media class="CMSMenuLink"   tabindex="0" >Forms and Media</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/resources/forms-and-media/online-payment-videos-and-user-guides class="CMSMenuLink"   tabindex="0" >Online Payment Videos and User Guides</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/resources/student-resources class="CMSMenuLink"   tabindex="0" >Student Resources</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/resources/student-resources/financial-wellness class="CMSMenuLink"   tabindex="0" >Financial Wellness</a>
+</li>
+<li>
+<a href=/resources/student-resources/uin-retrieval class="CMSMenuLink"   tabindex="0" >UIN Retrieval</a>
+</li>
+<li>
+<a href=/resources/student-resources/classroom-communication-concerns class="CMSMenuLink"   tabindex="0" >Classroom Communication Concerns</a>
+</li>
+<li>
+<a href=/resources/student-resources/personal-information-change class="CMSMenuLink"   tabindex="0" >Personal Information Change</a>
+</li>
+<li>
+<a href=/resources/student-resources/saving-banking class="CMSMenuLink"   tabindex="0" >Saving & Banking</a>
+</li>
+</ol></li>
+<li class="accessible-megamenu-panel-group">
+<h3><a href=/resources/contact-us class="CMSMenuLink"   tabindex="0" >Contact Us</a>
+</h3><ol class="accessible-megamenu"><li>
+<a href=/resources/contact-us/presentation-request class="CMSMenuLink"   tabindex="0" >Enrollment Services Presentation Request</a>
+</li>
+</ol></li>
+</ol></div></li>
+</ol></div>
+
+                            <button aria-expanded="false"
+
+                                    class="btn-search nav-toggle pull-right d-lg-none"
+
+                                    data-target="#search-bar"
+
+                                    data-focus=".searchBox input[type='text']" type="button">
+
+                                <span class="sr-only">Open Search Bar</span>
+
+                                <em class="fa fa-search" aria-hidden="true"></em>
+
+                            </button>
+
+                        </div>
+
+                    </nav>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--End Primary Navigation-->
+
+        <!--Begin Secondary Navigation-->
+
+            <div class="header-bar container" id="secondary-bar">
+
+                <div class="row">
+
+                    <div class="col-lg-12 col-8 site-title">
+
+                        <nav id="secondary-nav" aria-label="Secondary menu">
+
+
+
+                            <ul id = "sec-nav" class="CMSListMenuUL"><li>
+<a href=/2024-25-fafsa®-changes class="CMSMenuLink">2024-25 FAFSA Changes</a>
+</li>
+<li>
+<a href=/repaying-your-student-loans class="CMSMenuLink">Repaying Your Student Loans</a>
+</li>
+</ul>
+
+                        </nav>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+        <!--End Secondary Navigation-->
+
+        <!--Begin Search Bar-->
+
+        <div id="search-bar" class="header-bar container-fluid nav-collapsible collapsed" role="search">
+
+            <div class="container">
+
+                <div class="row">
+
+<form action="/SearchResults" method="get">                        <div class="searchBox" onkeypress="">
+
+                            <label for="searchtext" id="search_label">Search:</label>
+
+                            <input name="searchtext" type="text" tabindex="-1"
+
+                                   maxlength="1000" id="searchtext"
+
+                                   class="form-control" />
+
+                            <input type="submit" name="search"
+
+                                   value="Go" tabindex="-1"
+
+                                   class="btn btn-default" />
+
+                        </div>
+
+</form>                </div>
+
+            </div>
+
+        </div>
+
+        <!--End Search Bar-->
+
+        <!--Begin Alert Banner-->
+
+        <div id="Partial-c9905c78ddf64e5ba6c87ffe756206c4"></div><script type="text/javascript">(function() { var PartialContainer_c9905c78ddf64e5ba6c87ffe756206c4 = document.getElementById('Partial-c9905c78ddf64e5ba6c87ffe756206c4'); var RequestObj = (XMLHttpRequest) ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');RequestObj.open('GET', '/Home/AlertBanner?PWP57f5689392c54854bccac791a7d69f2f=true', true);RequestObj.send();RequestObj.onreadystatechange = function() {  if(RequestObj.readyState == 4) {     PartialContainer_c9905c78ddf64e5ba6c87ffe756206c4.innerHTML = (RequestObj.status == 200) ? RequestObj.responseText : '<!-- Error retrieving page content at /Home/AlertBanner?PWP57f5689392c54854bccac791a7d69f2f=true -->';  }};})();</script>
+
+        <!--End Alert Banner-->
+
+    </header>
+
+    <!--End Header-->
+
+    <!-- Mobile Side Menu -->
+
+    <nav id="mobile-side-nav" class="nav-collapsible collapsed nav-scrollable d-lg-none"
+
+         data-pos="left" aria-label="mobile menu" data-ktc-search-exclude>
+
+        <div id="nav-inset">
+
+            <img class="mobile-logo" src="/Content/Images/TAMU/TAMU.svg" alt="" />
+
+            <h2>Aggie One Stop</h2>
+
+            <button id="btn-close-menu" type="button" class="btn-close-menu">
+
+                <span class="sr-only">Close</span> <em class="fa fa-close" aria-hidden="true"></em>
+
+            </button>
+
+            <div id="MenuV">
+
+                <div class="Vertical" id="mobile-menu">
+
+
+
+
+
+
+
+                    
+
+                <ul id="CMSListMenuMobile" class="CMSListMenuUL  Menu1">
+
+            
+
+                    <li class=""
+
+                     data-level="1"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu-1"
+
+                        menu-link="/information-for"
+
+                        menu-target="SubMenu1" href="javascript:void(0)"  data-level="1">Information for
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu1">
+
+                        <div class="submenu-bc" id="SubMenu1Crumb">
+
+                            <a href="/information-for">Information for</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/information-for/future-students" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu1">
+
+                            Future Students
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/information-for/admitted-students" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu1">
+
+                            Admitted Students
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/information-for/current-students" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu1">
+
+                            Current Students
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/information-for/former-students" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu1">
+
+                            Former Students
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/information-for/veterans" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu1">
+
+                            Military Education Benefits
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/information-for/student-athletes" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu1">
+
+                            Student-Athletes
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="1"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu-1"
+
+                        menu-link="/registration-and-records"
+
+                        menu-target="SubMenu2" href="javascript:void(0)"  data-level="1">Registration and Records
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu2">
+
+                        <div class="submenu-bc" id="SubMenu2Crumb">
+
+                            <a href="/registration-and-records">Registration and Records</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu2"
+
+                        menu-link="/registration-and-records/transcripts-and-diplomas"
+
+                        menu-target="SubMenu3" href="javascript:void(0)"  data-level="2">Transcripts and Diplomas
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu3">
+
+                        <div class="submenu-bc" id="SubMenu3Crumb">
+
+                            <a href="/registration-and-records/transcripts-and-diplomas">Transcripts and Diplomas</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu3"
+
+                        menu-link="/registration-and-records/transcripts-and-diplomas/order-transcripts"
+
+                        menu-target="SubMenu4" href="javascript:void(0)"  data-level="3">Order Transcripts
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu4">
+
+                        <div class="submenu-bc" id="SubMenu4Crumb">
+
+                            <a href="/registration-and-records/transcripts-and-diplomas/order-transcripts">Order Transcripts</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/order-transcripts/myhub-nsch-transcript-ordering-information" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu4">
+
+                            Myhub and National Student Clearinghouse Transcript Ordering Information
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/enrollment-and-degree-verification" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu3">
+
+                            Enrollment and Degree Verification
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/diploma-and-transcript-notary-services" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu3">
+
+                            Diploma and Transcript Notary Services
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/duplicate-diplomas" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu3">
+
+                            Duplicate Diplomas
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/student-records-policy" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu3">
+
+                            Student Records Policy
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/reverse-transfer" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu3">
+
+                            Reverse Transfer
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/transcripts-and-diplomas/send-transcripts" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu3">
+
+                            Send Transcripts
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu2"
+
+                        menu-link="/registration-and-records/classes"
+
+                        menu-target="SubMenu5" href="javascript:void(0)"  data-level="2">Classes
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu5">
+
+                        <div class="submenu-bc" id="SubMenu5Crumb">
+
+                            <a href="/registration-and-records/classes">Classes</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu5"
+
+                        menu-link="/registration-and-records/classes/registration-information"
+
+                        menu-target="SubMenu6" href="javascript:void(0)"  data-level="3">Registration Information
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu6">
+
+                        <div class="submenu-bc" id="SubMenu6Crumb">
+
+                            <a href="/registration-and-records/classes/registration-information">Registration Information</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/registration-information/undergraduate-registration-schedules" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu6">
+
+                            Undergraduate Registration Schedules
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/registration-information/graduate-and-professional-student-registration-schedules" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu6">
+
+                            Graduate and Professional Student Registration Schedules
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/registration-information/waitlist-information" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu6">
+
+                            Waitlist Information
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu5"
+
+                        menu-link="/registration-and-records/classes/late-drop-or-add"
+
+                        menu-target="SubMenu7" href="javascript:void(0)"  data-level="3">Adding or Dropping Classes
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu7">
+
+                        <div class="submenu-bc" id="SubMenu7Crumb">
+
+                            <a href="/registration-and-records/classes/late-drop-or-add">Adding or Dropping Classes</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/late-drop-or-add/q-drops" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu7">
+
+                            Q-Drops
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/late-drop-or-add/late-add-or-drop" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu7">
+
+                            Late Add or Drop
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/late-drop-or-add/add-drop-and-q-drop-deadlines" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu7">
+
+                            Add/Drop and Q-Drop Deadlines
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu5"
+
+                        menu-link="/registration-and-records/classes/checking-for-holds"
+
+                        menu-target="SubMenu8" href="javascript:void(0)"  data-level="3">Checking for Holds
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu8">
+
+                        <div class="submenu-bc" id="SubMenu8Crumb">
+
+                            <a href="/registration-and-records/classes/checking-for-holds">Checking for Holds</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/checking-for-holds/common-hold-codes" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu8">
+
+                            Common Hold Codes
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu5"
+
+                        menu-link="/registration-and-records/classes/enrollment-status-definitions"
+
+                        menu-target="SubMenu9" href="javascript:void(0)"  data-level="3">Enrollment Status Definitions
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu9">
+
+                        <div class="submenu-bc" id="SubMenu9Crumb">
+
+                            <a href="/registration-and-records/classes/enrollment-status-definitions">Enrollment Status Definitions</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/enrollment-status-definitions/exceptions-to-full-time-enrollment-minimums" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu9">
+
+                            Exceptions to Full Time Enrollment Minimums
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/final-examination-schedules" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu5">
+
+                            Final Examination Schedules
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/registering-for-courses-on-s-u-basis" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu5">
+
+                            Registering for Courses on S/U Basis
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu5"
+
+                        menu-link="/registration-and-records/classes/student-worker-early-registration"
+
+                        menu-target="SubMenu10" href="javascript:void(0)"  data-level="3">Student Worker Early Registration
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu10">
+
+                        <div class="submenu-bc" id="SubMenu10Crumb">
+
+                            <a href="/registration-and-records/classes/student-worker-early-registration">Student Worker Early Registration</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/student-worker-early-registration/student-employment-verification" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu10">
+
+                            Student Employment Verification
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/classes/withdrawing-from-the-university" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu5">
+
+                            Withdrawing from the University
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu2"
+
+                        menu-link="/registration-and-records/degree-programs"
+
+                        menu-target="SubMenu11" href="javascript:void(0)"  data-level="2">Degree Programs
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu11">
+
+                        <div class="submenu-bc" id="SubMenu11Crumb">
+
+                            <a href="/registration-and-records/degree-programs">Degree Programs</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/degree-programs/undergraduate-degree-planner" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu11">
+
+                            Undergraduate Degree Planner
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/degree-programs/adding-and-removing-a-minor" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu11">
+
+                            Adding and Removing a Minor
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/degree-programs/change-of-major" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu11">
+
+                            Change of Major
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/degree-programs/undergraduate-double-majors" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu11">
+
+                            Undergraduate Double Majors
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/degree-programs/undergraduate-double-degrees" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu11">
+
+                            Undergraduate Double Degrees
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu2"
+
+                        menu-link="/registration-and-records/grades"
+
+                        menu-target="SubMenu12" href="javascript:void(0)"  data-level="2">Grades
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu12">
+
+                        <div class="submenu-bc" id="SubMenu12Crumb">
+
+                            <a href="/registration-and-records/grades">Grades</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/grades/how-to-calculate-gpa" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu12">
+
+                            How to Calculate GPA
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/grades/parent-guardian-access" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu12">
+
+                            Parent or Guardian Access
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/registration-and-records/grades/historic-grading-scale" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu12">
+
+                            Historic Grading Scale
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="1"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu-1"
+
+                        menu-link="/financial-aid"
+
+                        menu-target="SubMenu13" href="javascript:void(0)"  data-level="1">Scholarships and Financial Aid
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu13">
+
+                        <div class="submenu-bc" id="SubMenu13Crumb">
+
+                            <a href="/financial-aid">Scholarships and Financial Aid</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu13"
+
+                        menu-link="/financial-aid/types-of-aid"
+
+                        menu-target="SubMenu14" href="javascript:void(0)"  data-level="2">Types of Aid
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu14">
+
+                        <div class="submenu-bc" id="SubMenu14Crumb">
+
+                            <a href="/financial-aid/types-of-aid">Types of Aid</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu14"
+
+                        menu-link="/financial-aid/types-of-aid/grants"
+
+                        menu-target="SubMenu15" href="javascript:void(0)"  data-level="3">Grants
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu15">
+
+                        <div class="submenu-bc" id="SubMenu15Crumb">
+
+                            <a href="/financial-aid/types-of-aid/grants">Grants</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/grants/aggie-assurance" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu15">
+
+                            Aggie Assurance
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/grants/federal-teach-grant-faq" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu15">
+
+                            Federal TEACH Grant FAQ
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu14"
+
+                        menu-link="/financial-aid/types-of-aid/scholarships"
+
+                        menu-target="SubMenu16" href="javascript:void(0)"  data-level="3">Scholarships
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu16">
+
+                        <div class="submenu-bc" id="SubMenu16Crumb">
+
+                            <a href="/financial-aid/types-of-aid/scholarships">Scholarships</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/how-to-apply" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu16">
+
+                            How to Apply
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/maintaining-eligibility" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu16">
+
+                            Maintaining Eligibility
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu16"
+
+                        menu-link="/financial-aid/types-of-aid/scholarships/undergraduate-scholarships"
+
+                        menu-target="SubMenu17" href="javascript:void(0)"  data-level="4">Undergraduate Scholarships
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu17">
+
+                        <div class="submenu-bc" id="SubMenu17Crumb">
+
+                            <a href="/financial-aid/types-of-aid/scholarships/undergraduate-scholarships">Undergraduate Scholarships</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/academic-achievement-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Academic Achievement Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/academic-excellence-awards" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Academic Excellence Awards
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/academic-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Academic Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/aggie-ring-scholarship-program" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Aggie Ring Scholarship Program
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/aggie-transfer-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Aggie Transfer Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/brown-foundation-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Brown Foundation Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/century-scholars-program" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Century Scholars Program
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/college-and-department-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            College and Department Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/collegiate-license-plate-program" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Collegiate License Plate Program
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/continuing-student-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Continuing Student Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/corps-of-cadets-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Corps of Cadets Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/dependent-children-of-texas-a-m-employee-scholarship" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Dependent Children of Texas A&M Employee Scholarship
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/education-abroad-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Education Abroad Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/gtf-aggie-scholars-program" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            GTF Aggie Scholars Program
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/higher-education-center-at-mcallen-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Higher Education Center at McAllen Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/highest-ranking-high-school-graduate-exemption" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Highest Ranking Graduate (HRG) Tuition Waiver Document
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/national-scholars" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            National Scholars
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/opportunity-award" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Opportunity Award
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/out-of-state-student-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Out-of-State Student Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/phi-theta-kappa-transfer-scholarship" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Phi Theta Kappa Transfer Scholarship
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/regents-scholars-program" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Regents' Scholars Program
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/scholarships-for-students-with-disabilities" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Scholarships for Students with Disabilities
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/southerland-aggie-leadership-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Southerland Aggie Leadership Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/terry-foundation-scholars" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Terry Foundation® Scholars
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/texas-armed-services-scholarship" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Texas Armed Services Scholarship
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/undergraduate-scholarships/finis-welch-scholars" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu17">
+
+                            Welch Scholars
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu16"
+
+                        menu-link="/financial-aid/types-of-aid/scholarships/graduate-and-professional-scholarships"
+
+                        menu-target="SubMenu18" href="javascript:void(0)"  data-level="4">Graduate and Professional Scholarships
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu18">
+
+                        <div class="submenu-bc" id="SubMenu18Crumb">
+
+                            <a href="/financial-aid/types-of-aid/scholarships/graduate-and-professional-scholarships">Graduate and Professional Scholarships</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/graduate-and-professional-scholarships/continuing-student-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu18">
+
+                            Continuing Student Scholarships
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu16"
+
+                        menu-link="/financial-aid/types-of-aid/scholarships/veteran-scholarships"
+
+                        menu-target="SubMenu19" href="javascript:void(0)"  data-level="4">Veteran Scholarships
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu19">
+
+                        <div class="submenu-bc" id="SubMenu19Crumb">
+
+                            <a href="/financial-aid/types-of-aid/scholarships/veteran-scholarships">Veteran Scholarships</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/veteran-scholarships/active-duty-veteran-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu19">
+
+                            Active Duty/Veteran Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/veteran-scholarships/pat-tillman-foundation-scholarship" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu19">
+
+                            Pat Tillman Foundation Scholarship
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/veteran-scholarships/veteran-dependents-spouses-scholarships" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu19">
+
+                            Veteran Dependents/Spouses Scholarships
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/international-student-scholarships" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu16">
+
+                            International Student Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/important-dates" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu16">
+
+                            Important Dates
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/non-resident-tuition-waiver" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu16">
+
+                            Non-Resident Tuition Waiver
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu16"
+
+                        menu-link="/financial-aid/types-of-aid/scholarships/additional-scholarships"
+
+                        menu-target="SubMenu20" href="javascript:void(0)"  data-level="4">Additional Scholarships
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu20">
+
+                        <div class="submenu-bc" id="SubMenu20Crumb">
+
+                            <a href="/financial-aid/types-of-aid/scholarships/additional-scholarships">Additional Scholarships</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/scholarships/additional-scholarships/outside-scholarship-search" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu20">
+
+                            Outside Scholarship Search
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu14"
+
+                        menu-link="/financial-aid/types-of-aid/loans"
+
+                        menu-target="SubMenu21" href="javascript:void(0)"  data-level="3">Loans
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu21">
+
+                        <div class="submenu-bc" id="SubMenu21Crumb">
+
+                            <a href="/financial-aid/types-of-aid/loans">Loans</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/federal-direct-subsidized-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Federal Direct Subsidized Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/federal-direct-unsubsidized-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Federal Direct Unsubsidized Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/federal-direct-parent-plus-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Federal Direct Parent PLUS Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/federal-direct-loan-limits" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Federal Direct Loan Limits
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/federal-direct-graduate-plus-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Federal Direct Graduate PLUS Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/health-professions-student-loan" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Health Professions Student Loan
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/alternative-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Alternative Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/short-term-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Short-Term Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/emergency-tuition-fees-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Emergency Tuition & Fees Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/repaying-your-student-loans" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Repaying Your Student Loans
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/loans/direct-loan-counseling" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu21">
+
+                            Master Promissory Note and Loan Counseling
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/student-employment" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu14">
+
+                            Student Employment
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu14"
+
+                        menu-link="/financial-aid/types-of-aid/tuition-waivers-and-exemptions"
+
+                        menu-target="SubMenu22" href="javascript:void(0)"  data-level="3">Tuition Waivers and Exemptions
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu22">
+
+                        <div class="submenu-bc" id="SubMenu22Crumb">
+
+                            <a href="/financial-aid/types-of-aid/tuition-waivers-and-exemptions">Tuition Waivers and Exemptions</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/tuition-waivers-and-exemptions/non-resident-tuition-waiver" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu22">
+
+                            Non-Resident Tuition Waiver
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu14"
+
+                        menu-link="/financial-aid/types-of-aid/additional-aid-opportunities"
+
+                        menu-target="SubMenu23" href="javascript:void(0)"  data-level="3">Additional Aid Opportunities
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu23">
+
+                        <div class="submenu-bc" id="SubMenu23Crumb">
+
+                            <a href="/financial-aid/types-of-aid/additional-aid-opportunities">Additional Aid Opportunities</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/additional-aid-opportunities/emergency-aid" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu23">
+
+                            Emergency Aid
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/emergency-relief-funds-covid-19-guidance" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu14">
+
+                            Emergency Relief Funds & COVID-19 Guidance
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/types-of-aid/student-athletes" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu14">
+
+                            Student-Athletes
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu13"
+
+                        menu-link="/financial-aid/apply-for-aid"
+
+                        menu-target="SubMenu24" href="javascript:void(0)"  data-level="2">Apply for Aid
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu24">
+
+                        <div class="submenu-bc" id="SubMenu24Crumb">
+
+                            <a href="/financial-aid/apply-for-aid">Apply for Aid</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu24"
+
+                        menu-link="/financial-aid/apply-for-aid/fafsa"
+
+                        menu-target="SubMenu25" href="javascript:void(0)"  data-level="3">FAFSA
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu25">
+
+                        <div class="submenu-bc" id="SubMenu25Crumb">
+
+                            <a href="/financial-aid/apply-for-aid/fafsa">FAFSA</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/fafsa/2024-25-fafsa®-changes" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu25">
+
+                            2024-25 FAFSA Changes
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/tasfa" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu24">
+
+                            TASFA
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/isfaa" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu24">
+
+                            ISFAA
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu24"
+
+                        menu-link="/financial-aid/apply-for-aid/processing-your-aid"
+
+                        menu-target="SubMenu26" href="javascript:void(0)"  data-level="3">Processing Your Aid
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu26">
+
+                        <div class="submenu-bc" id="SubMenu26Crumb">
+
+                            <a href="/financial-aid/apply-for-aid/processing-your-aid">Processing Your Aid</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/processing-your-aid/setting-up-direct-deposit" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu26">
+
+                            Setting up Direct Deposit
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/processing-your-aid/award-proration" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu26">
+
+                            Award Proration
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/processing-your-aid/disbursement-dates" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu26">
+
+                            Disbursement Dates
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/processing-your-aid/combination-programs" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu26">
+
+                            Combination Programs
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/maintaining-eligibility" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu24">
+
+                            Maintaining Eligibility
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/verification" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu24">
+
+                            Verification
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/financial-aid-faq" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu24">
+
+                            Financial Aid FAQ
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/apply-for-aid/program-of-study-faq" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu24">
+
+                            Program of Study FAQ
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu13"
+
+                        menu-link="/financial-aid/veterans"
+
+                        menu-target="SubMenu27" href="javascript:void(0)"  data-level="2">Military Education Benefits
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu27">
+
+                        <div class="submenu-bc" id="SubMenu27Crumb">
+
+                            <a href="/financial-aid/veterans">Military Education Benefits</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu27"
+
+                        menu-link="/financial-aid/veterans/benefits-and-waivers"
+
+                        menu-target="SubMenu28" href="javascript:void(0)"  data-level="3">Benefits and Waivers
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu28">
+
+                        <div class="submenu-bc" id="SubMenu28Crumb">
+
+                            <a href="/financial-aid/veterans/benefits-and-waivers">Benefits and Waivers</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/apply-for-benefits" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Apply for Benefits
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/federal-veteran-benefits" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Federal Veteran Benefits
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/hazlewood-exemption" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Hazlewood Exemption
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/texas-veterans-benefits" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Military in Texas Waiver
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/military-tuition-assistance-and-rotc-scholarships" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Military Tuition Assistance and ROTC Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/check-your-benefits-status" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Check Your Benefits Status
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/education-abroad-veteran-benefits" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Education Abroad Veteran Benefits
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/additional-benefits" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Additional Benefits
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/benefits-and-waivers/veteran-benefit-resources" class="CMSMenuLink"  
+
+                        data-level="4"  data-parent="SubMenu28">
+
+                            Veteran Benefit Resources
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/veteran-financial-aid-faq" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu27">
+
+                            Veteran Financial Aid FAQ
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/veteran-scholarships" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu27">
+
+                            Veteran Scholarships
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/forms-and-media" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu27">
+
+                            Forms and Media
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/college-financing-plan" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu27">
+
+                            College Financing Plan
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/financial-aid/veterans/maritime-academy" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu27">
+
+                            Maritime Academy
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="1"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu-1"
+
+                        menu-link="/billing-and-payments"
+
+                        menu-target="SubMenu29" href="javascript:void(0)"  data-level="1">Billing and Payments
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu29">
+
+                        <div class="submenu-bc" id="SubMenu29Crumb">
+
+                            <a href="/billing-and-payments">Billing and Payments</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu29"
+
+                        menu-link="/billing-and-payments/cost-and-tuition-rates"
+
+                        menu-target="SubMenu30" href="javascript:void(0)"  data-level="2">Cost and Tuition Rates
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu30">
+
+                        <div class="submenu-bc" id="SubMenu30Crumb">
+
+                            <a href="/billing-and-payments/cost-and-tuition-rates">Cost and Tuition Rates</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/cost-and-tuition-rates/tuition-charged-for-excess-credit-hours" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu30">
+
+                            Tuition Charged for Excess Credit Hours
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/cost-and-tuition-rates/three-peat" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu30">
+
+                            Three Peat
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/cost-and-tuition-rates/undergraduate-cost-of-attendance" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu30">
+
+                            Undergraduate Cost of Attendance
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/cost-and-tuition-rates/graduate-cost-of-attendance" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu30">
+
+                            Graduate Cost of Attendance
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/cost-and-tuition-rates/professional-cost-of-attendance" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu30">
+
+                            Professional Cost of Attendance
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/cost-and-tuition-rates/tuition-insurance" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu30">
+
+                            Tuition Insurance
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu29"
+
+                        menu-link="/billing-and-payments/residency-for-in-state-tuition"
+
+                        menu-target="SubMenu31" href="javascript:void(0)"  data-level="2">Residency for In-State Tuition
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu31">
+
+                        <div class="submenu-bc" id="SubMenu31Crumb">
+
+                            <a href="/billing-and-payments/residency-for-in-state-tuition">Residency for In-State Tuition</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/residency-for-in-state-tuition/establishing-residency" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu31">
+
+                            Establishing Residency
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/residency-for-in-state-tuition/immigration-status" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu31">
+
+                            Immigration Status
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu29"
+
+                        menu-link="/billing-and-payments/paying-your-bill"
+
+                        menu-target="SubMenu32" href="javascript:void(0)"  data-level="2">Paying Your Bill
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu32">
+
+                        <div class="submenu-bc" id="SubMenu32Crumb">
+
+                            <a href="/billing-and-payments/paying-your-bill">Paying Your Bill</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/due-dates" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            Due Dates
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/payment-plan" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            Payment Plan
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/international-payments" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            International Payments
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/third-party-sponsor-billing" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            Third Party Sponsor Billing
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/texas-guaranteed-tuition-fund" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            Texas Guaranteed Tuition Fund
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/texas-tuition-promise-fund" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            Texas Tuition Promise Fund
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/billing-and-payments/paying-your-bill/educational-tax-credits" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu32">
+
+                            Educational Tax Credits
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="1"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu-1"
+
+                        menu-link="/graduation"
+
+                        menu-target="SubMenu33" href="javascript:void(0)"  data-level="1">Graduation
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu33">
+
+                        <div class="submenu-bc" id="SubMenu33Crumb">
+
+                            <a href="/graduation">Graduation</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=" currentPage"
+
+                     data-level="2"
+
+                     aria-current="page" >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu33"
+
+                        menu-link="/graduation/schedule"
+
+                        menu-target="SubMenu34" href="javascript:void(0)"  data-level="2">Schedule
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu34">
+
+                        <div class="submenu-bc" id="SubMenu34Crumb">
+
+                            <a href="/graduation/schedule">Schedule</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/schedule/important-dates-and-deadlines" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu34">
+
+                            Important Dates and Deadlines for Degree Candidates
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/applying-for-your-degree" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Applying for Your Degree
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/graduation-checklist" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Graduation Checklist
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/graduation-clearance" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Graduation Clearance
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/degree-requirement-verification" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Degree Requirement Verification
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/outstanding-balances" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Outstanding Balances
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/things-to-order-for-ceremony" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Things to Order
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/diploma-information" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Diploma Information
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu33"
+
+                        menu-link="/graduation/what-to-expect,-day-of"
+
+                        menu-target="SubMenu35" href="javascript:void(0)"  data-level="2">What to Expect, Day of
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu35">
+
+                        <div class="submenu-bc" id="SubMenu35Crumb">
+
+                            <a href="/graduation/what-to-expect,-day-of">What to Expect, Day of</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/what-to-expect,-day-of/frequently-asked-questions" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu35">
+
+                            Frequently Asked Questions
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/what-to-expect,-day-of/tips-and-tricks-for-a-successful-day" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu35">
+
+                            Tips and Tricks for a Successful Day
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/disability-accommodations" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Disability Accommodations
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/graduation-with-honors" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Graduation with Honors
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/military-commissioning" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Military Commissioning
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/graduate-interdisciplinary-programs" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Graduate Interdisciplinary Programs
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/tuition-rebate" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Tuition Rebate
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/graduation-cancellation" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Graduation Cancellation
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/graduation/former-students" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu33">
+
+                            Former Students
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="1"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu-1"
+
+                        menu-link="/resources"
+
+                        menu-target="SubMenu36" href="javascript:void(0)"  data-level="1">Resources
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu36">
+
+                        <div class="submenu-bc" id="SubMenu36Crumb">
+
+                            <a href="/resources">Resources</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu36"
+
+                        menu-link="/resources/forms-and-media"
+
+                        menu-target="SubMenu37" href="javascript:void(0)"  data-level="2">Forms and Media
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu37">
+
+                        <div class="submenu-bc" id="SubMenu37Crumb">
+
+                            <a href="/resources/forms-and-media">Forms and Media</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/resources/forms-and-media/online-payment-videos-and-user-guides" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu37">
+
+                            Online Payment Videos and User Guides
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu36"
+
+                        menu-link="/resources/student-resources"
+
+                        menu-target="SubMenu38" href="javascript:void(0)"  data-level="2">Student Resources
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu38">
+
+                        <div class="submenu-bc" id="SubMenu38Crumb">
+
+                            <a href="/resources/student-resources">Student Resources</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu38"
+
+                        menu-link="/resources/student-resources/financial-wellness"
+
+                        menu-target="SubMenu39" href="javascript:void(0)"  data-level="3">Financial Wellness
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu39">
+
+                        <div class="submenu-bc" id="SubMenu39Crumb">
+
+                            <a href="/resources/student-resources/financial-wellness">Financial Wellness</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="4"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu39"
+
+                        menu-link="/resources/student-resources/financial-wellness/resources"
+
+                        menu-target="SubMenu40" href="javascript:void(0)"  data-level="4">Resources Across Campus
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu40">
+
+                        <div class="submenu-bc" id="SubMenu40Crumb">
+
+                            <a href="/resources/student-resources/financial-wellness/resources">Resources Across Campus</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/financial-wellness/resources/graduating-now-what" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu40">
+
+                            Graduating: Now What?
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/financial-wellness/resources/credit-scores" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu40">
+
+                            Credit Scores
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="5"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/financial-wellness/resources/money-management" class="CMSMenuLink"  
+
+                        data-level="5"  data-parent="SubMenu40">
+
+                            Money Management
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/uin-retrieval" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu38">
+
+                            UIN Retrieval
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/classroom-communication-concerns" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu38">
+
+                            Classroom Communication Concerns
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/personal-information-change" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu38">
+
+                            Personal Information Change
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/resources/student-resources/saving-banking" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu38">
+
+                            Saving & Banking
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a class="CMSListMenuLink  menu-expand"  data-parent="SubMenu36"
+
+                        menu-link="/resources/contact-us"
+
+                        menu-target="SubMenu41" href="javascript:void(0)"  data-level="2">Contact Us
+
+                        </a>
+
+                        <div class="Menu2" id="SubMenu41">
+
+                        <div class="submenu-bc" id="SubMenu41Crumb">
+
+                            <a href="/resources/contact-us">Contact Us</a>
+
+                        </div>
+
+                <ul id="" class="CMSListMenuUL ">
+
+            
+
+                    <li class=""
+
+                     data-level="3"
+
+                     >
+
+                    
+
+                        <a href = "/resources/contact-us/presentation-request" class="CMSMenuLink"  
+
+                        data-level="3"  data-parent="SubMenu41">
+
+                            Enrollment Services Presentation Request
+
+                        </a>
+
+                        </li>
+</ul></div></li>
+</ul></div></li>
+</ul>
+
+                    
+
+                <ul id="sec-nav-mobile" class="CMSListMenuUL  Secondary-Menu-Mobile">
+
+            
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/2024-25-fafsa®-changes" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu-1">
+
+                            2024-25 FAFSA Changes
+
+                        </a>
+
+                        </li>
+
+
+                    <li class=""
+
+                     data-level="2"
+
+                     >
+
+                    
+
+                        <a href = "/repaying-your-student-loans" class="CMSMenuLink"  
+
+                        data-level="2"  data-parent="SubMenu-1">
+
+                            Repaying Your Student Loans
+
+                        </a>
+
+                        </li>
+</ul>
+
+                </div>
+
+
+
+            </div>
+
+        </div>
+
+    </nav>
+
+
+
+    <main id="main">
+
+        
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+
+    .hero-background {
+
+        background:white;
+
+        border-bottom: 5px solid #500000;
+
+        margin-bottom:20px;
+
+    }
+
+    @media only screen and (min-width:769px) {
+
+        .hero-background {
+
+            background: url('/getattachment/a1ada5c9-f34b-4e24-a00e-3031a3790523/AOS-Graduation-subpages_V3.png');
+
+            border-bottom:0;
+
+            margin-bottom:0;
+
+        }
+
+    }
+
+    #Breadcrumb .offcanvas-toggle {
+
+        padding-right: 10px;
+
+        padding-left: 10px;
+
+    }
+
+</style>
+
+
+
+<section class="hero-background" id="hero" aria-labelledby="page-title" role="banner">
+
+    <div class="hero-bar">
+
+        <div class="container">
+
+            <h1 class="page-title title-align" id="page-title">Schedule</h1><br />
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+    <div class="container">
+
+        <div class="row">
+
+            <nav id="Breadcrumb" aria-label="Breadcrumbs" class="col">
+
+                <a class="CMSBreadCrumbsLink offcanvas-toggle" role="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight-sideNav">
+
+                    <em role="img" class="fa fa-ellipsis-v" aria-label="more"></em></a>
+
+                /
+
+                <a class = "CMSBreadCrumbsLink" href="/home"> <em class="fa fa-home" aria-label="Home" role="img"></em></a> / <a class = "CMSBreadCrumbsLink" href="/graduation">Graduation</a> / <span class="CMSBreadCrumbsCurrentItem">Schedule</span>
+
+            </nav>
+
+        </div>
+
+    </div>
+
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-xs-12 col-sm-12 col-md-3 col-xl-3  sideNav-menu">
+
+            <div id="sideNav-3583abf7-4e02-4f44-a479-0e55706ae9b6">
+
+                <div id="Partial-7b405158ffad46009a24f25fdc592268"></div><script type="text/javascript">(function() { var PartialContainer_7b405158ffad46009a24f25fdc592268 = document.getElementById('Partial-7b405158ffad46009a24f25fdc592268'); var RequestObj = (XMLHttpRequest) ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');RequestObj.open('GET', '/Home/SideNav?currentUrl=%2FGraduation%2FSchedule&PWP57f5689392c54854bccac791a7d69f2f=true', true);RequestObj.send();RequestObj.onreadystatechange = function() {  if(RequestObj.readyState == 4) {     PartialContainer_7b405158ffad46009a24f25fdc592268.innerHTML = (RequestObj.status == 200) ? RequestObj.responseText : '<!-- Error retrieving page content at /Home/SideNav?currentUrl=%2FGraduation%2FSchedule&PWP57f5689392c54854bccac791a7d69f2f=true -->';  }};})();</script>
+
+            </div>
+
+
+
+            <div class="related-items">
+
+                
+
+
+
+    <div>
+
+        
+
+    </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-9 col-xl-9">
+
+            <div class="sideNav-page-content row">
+
+                
+
+
+
+
+
+
+
+<section class="background-img no-image" 
+
+         id="Anchor-Link-bf50c691-23db-4660-b225-78560d9250c6"
+
+         aria-label="Anchor-Link-bf50c691-23db-4660-b225-78560d9250c6">
+
+    <div class="background-white section-padding-bottom-default section-padding-top-default">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-xl-12 ">
+
+                    
+
+
+
+    <div class="fr-view">
+
+        <h1>Spring 2024 Schedule</h1>
+
+    </div>
+
+
+
+
+
+
+
+    <div class="fr-view">
+
+        Open the accordions below to view the ceremony information for ceremonies held at Texas A&amp;M University in College Station by the Office of the Registrar and the Graduate and Professional School.<br><br>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="accordion-item panel panel-default ">
+
+    <div class="panel-heading " id="head-panel-bachelor39sdegreecommencement-4BT5xS">
+
+        <h2 class="accordion-heading panel-title">
+
+            <a class="accordion-button panel-link collapsed"
+
+               href="#a-bachelor39sdegreecommencement-4BT5xS"
+
+               data-bs-toggle="collapse" role="button"
+
+               data-bs-target="#a-bachelor39sdegreecommencement-4BT5xS"
+
+               aria-expanded="false" aria-controls="a-bachelor39sdegreecommencement-4BT5xS"
+
+               id="panel-bachelor39sdegreecommencement-4BT5xS">
+
+                <div class="fr-view">
+
+                    Bachelor's Degree Commencement
+
+                </div>
+
+            </a>
+
+        </h2>
+
+    </div>
+
+
+
+    <div class="accordion-collapse panel-collapse collapse" id="a-bachelor39sdegreecommencement-4BT5xS"
+
+         role="region" aria-hidden="true"
+
+         aria-labelledby="panel-bachelor39sdegreecommencement-4BT5xS" aria-expanded="false" style="">
+
+        <div class="fr-view accordion-body panel-body PanelContentCSS">
+
+<table><thead><tr><th><div style="text-align: left">Thursday, May 9, 2024</div></th></tr></thead><tbody><tr><td><div style="text-align: left"><strong>9:00 a.m. - Reed Arena</strong></div><ul><li id="isPasted" style="text-align: left">Undergraduates in Arts and Sciences<ul><li id="isPasted" style="text-align: left">Departments: College of Arts and Sciences (Majors: Biomedical Sciences, Environmental Studies,<br id="isPasted">Neuroscience, University Studies – USGE, USLA, USSC, USVM); Anthropology; Biology; English;<br>Geography; Geology and Geophysics; Oceanography; Philosophy; Physics and Astronomy; and<br>Sociology</li></ul></li></ul><div data-empty="true" style="text-align: left"><br></div><ul><li style="text-align: left"><strong>2:00 p.m. - Reed Arena</strong><ul><li>Undergraduates in Arts and Sciences<ul><li style="text-align: left">Departments: Atmospheric Sciences; Chemistry; Communication and Journalism; Economics; Global Languages and Cultures; History; Mathematics; Psychological and Brain Sciences; and Statistics</li></ul></li></ul></li></ul><div data-empty="true" style="text-align: left"><br></div><ul><li style="text-align: left"><strong>7:00 p.m. - Reed Arena</strong><ul><li>Undergraduates in Architecture<ul><li style="text-align: left">University Studies – USAR majors will participate in this ceremony</li></ul></li><li>Undergraduates in Mays Business School<ul><li style="text-align: left">University Studies – USBU majors will participate in this ceremony<br><br></li></ul></li></ul></li></ul></td></tr></tbody></table><table id="isPasted"><thead><tr><th><div style="text-align: left">Friday, May 10, 2024</div></th></tr></thead><tbody><tr><td><ul id="isPasted"><li style="text-align: left"><strong>9:00 a.m. - Reed Arena</strong><ul><li>Undergraduates in Agriculture and Life Sciences<ul><li>University Studies – USAL majors will participate in this ceremony</li></ul></li><li>Undergraduates in Nursing</li></ul></li></ul><strong><br></strong><ul><li style="text-align: left"><strong>2:00 p.m. - Reed Arena</strong><ul><li>Military Commissioning Ceremony</li><li>Undergraduates in Engineering<ul><li>Departments: Aerospace Engineering; Biomedical Engineering; Civil and Environmental Engineering; Computer Science and Engineering; Electrical and Computer Engineering;&nbsp;<br>Materials Science and Engineering; Nuclear Engineering; and Ocean Engineering<strong><br></strong><strong><br></strong></li></ul></li></ul></li><li style="text-align: left"><strong>7:00 p.m. - Reed Arena</strong><ul><li>Undergraduates in Engineering<ul><li>Departments: Biological and Agricultural Engineering; Chemical Engineering;&nbsp;<br>Engineering Technology and Industrial Distribution; Industrial and Systems Engineering;&nbsp;<br>Mechanical Engineering; Multidisciplinary Engineering; and Petroleum Engineering</li></ul></li><li>Undergraduates in Performance, Visualization and Fine Arts</li></ul></li></ul><br></td></tr></tbody></table><table id="isPasted"><thead><tr><th><div style="text-align: left">Saturday, May 11, 2024</div></th></tr></thead><tbody><tr><td><ul><li style="text-align: left"><strong>9:00 a.m. - Reed Arena</strong><ul><li>Aggie ACHIEVE Graduate Recognition&nbsp;</li><li>Undergraduates in Bush School of Government and Public Service</li><li>Undergraduates in Education and Human Development<ul><li>University Studies – USEH majors will participate in this ceremony</li></ul></li><li>Undergraduates in Public Health</li></ul></li></ul><br></td></tr></tbody></table>        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="accordion-item panel panel-default ">
+
+    <div class="panel-heading " id="head-panel-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y">
+
+        <h2 class="accordion-heading panel-title">
+
+            <a class="accordion-button panel-link collapsed"
+
+               href="#a-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y"
+
+               data-bs-toggle="collapse" role="button"
+
+               data-bs-target="#a-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y"
+
+               aria-expanded="false" aria-controls="a-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y"
+
+               id="panel-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y">
+
+                <div class="fr-view">
+
+                    Master's and Doctoral Commencement and Doctoral Hooding
+
+                </div>
+
+            </a>
+
+        </h2>
+
+    </div>
+
+
+
+    <div class="accordion-collapse panel-collapse collapse" id="a-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y"
+
+         role="region" aria-hidden="true"
+
+         aria-labelledby="panel-master39sanddoctoralcommencementanddoctoralhooding-uNkZ6y" aria-expanded="false" style="">
+
+        <div class="fr-view accordion-body panel-body PanelContentCSS">
+
+<table id="isPasted"><thead><tr><th><div style="text-align: left">Saturday, May 11, 2024</div></th></tr></thead><tbody><tr><td><ul><li id="isPasted" style="text-align: left"><strong>2:00 p.m. – Reed Arena</strong><ul><li>Graduate and Professional School<ul><li>Graduates in: Architecture; Bush School of Government and Public Service; Engineering;&nbsp;<br>Public Health</li></ul></li></ul></li></ul></td></tr><tr><td><ul><li id="isPasted" style="text-align: left"><strong>7:00 p.m. – Reed Arena</strong><ul><li>Graduate and Professional School<ul><li>Graduates in: Agriculture and Life Sciences; Arts and Sciences; Mays Business School;&nbsp;<br>Education and Human Development; Nursing; Performance, Visualization and Fine Arts;&nbsp;<br>Veterinary Medicine and Biomedical Sciences</li></ul></li></ul></li></ul><br></td></tr></tbody></table>        </div>
+
+    </div>
+
+</div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+<section class="background-img no-image" 
+
+         id="Anchor-Link-82e6d9e4-99d7-4abb-8390-626a304bd405"
+
+         aria-label="Anchor-Link-82e6d9e4-99d7-4abb-8390-626a304bd405">
+
+    <div class="background-white section-padding-bottom-default section-padding-top-none">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-xl-12 ">
+
+                    
+
+
+
+    <div class="fr-view">
+
+        The Office of the Registrar is responsible for ensuring the number of graduates at each commencement ceremony results in ceremonies of reasonably equal duration. &nbsp;<strong id="isPasted">Consequently</strong><strong>, the determination of which colleges will graduate at which ceremony is announced mid-semester.</strong> Please refer to the&nbsp;<a href="https://registrar.tamu.edu/academic-calendar" id="isPasted" rel="noopener noreferrer" target="_blank">Academic Calendar</a> for this deadline.&nbsp;<br><br><em><strong>*Future events, deadlines, ceremony dates, and times are subject to change.*</strong></em><br><br><br><strong>Note:&nbsp;</strong><strong>All students planning to participate in a commencement ceremony must do so in the ceremony designated for their college in the term in which they have an active graduation application. Graduate students can find the designated ceremony for their program on the&nbsp;</strong><a href="/graduation/graduate-interdisciplinary-programs"><strong>Graduate Interdisciplinary Program page</strong></a><strong>.</strong>
+
+    </div>
+
+
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+<section class="background-img no-image" 
+
+         id="Anchor-Link-a9b07970-2bd6-4646-9b31-0c593c44b3bb"
+
+         aria-label="Anchor-Link-a9b07970-2bd6-4646-9b31-0c593c44b3bb">
+
+    <div class="background-light-gray-base section-padding-bottom-default section-padding-top-default">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-xl-12 ">
+
+                    
+
+
+
+    <div class="fr-view">
+
+        <h2 style="text-align: center">Branch Campuses and Individual College Ceremonies</h2><a href="https://registrar.tamu.edu/graduation/branch-campuses-and-individual-college-ceremonies/individual-college-ceremonies" rel="noopener noreferrer" target="_blank"></a>
+
+    </div>
+
+
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+
+<section class="background-img no-image" 
+
+         id="Anchor-Link-b7d7498f-9883-4b8a-bf32-fbff046ff4eb"
+
+         aria-label="Anchor-Link-b7d7498f-9883-4b8a-bf32-fbff046ff4eb">
+
+    <div class="section-padding-bottom-default section-padding-top-none background-light-gray-base">
+
+        <div class="container">
+
+            <div class="row ">
+
+                <div class="col-xs-12 col-sm-12 col-md-4 col-xl-4">
+
+                    
+
+<div class="button-box button-center-a">
+
+    <a href="https://registrar.tamu.edu/graduation/branch-campuses-and-individual-college-ceremonies/texas-a-m-university-at-galveston" target="_blank" type="button" class="c-button c-button_maroon-slide-button mt-3 mb-3 ">
+
+        Texas A&amp;M University at Galveston     </a>
+
+</div>
+
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-4 col-xl-4">
+
+                    
+
+<div class="button-box button-center-a">
+
+    <a href="https://registrar.tamu.edu/graduation/branch-campuses-and-individual-college-ceremonies/texas-a-m-university-at-qatar" target="_blank" type="button" class="c-button c-button_maroon-slide-button mt-3 mb-3 ">
+
+        Texas A&amp;M University at Qatar     </a>
+
+</div>
+
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-4 col-xl-4">
+
+                    
+
+<div class="button-box button-center-a">
+
+    <a href="https://registrar.tamu.edu/graduation/branch-campuses-and-individual-college-ceremonies/individual-college-ceremonies" target="_blank" type="button" class="c-button c-button_maroon-slide-button mt-3 mb-3 ">
+
+        Individual College Ceremonies     </a>
+
+</div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+<section class="background-img no-image" 
+
+         id="Anchor-Link-a2013b17-15af-448e-b28c-cc7af92d6e9d"
+
+         aria-label="Anchor-Link-a2013b17-15af-448e-b28c-cc7af92d6e9d">
+
+    <div class="background-white section-padding-bottom-default section-padding-top-default">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-xl-12  ">
+
+                    
+
+<div class="button-box button-center-a">
+
+    <a href="/graduation/what-to-expect,-day-of/frequently-asked-questions" target="" type="button" class="c-button c-button_maroon mt-3 mb-3 ">
+
+        Frequently Asked Questions     </a>
+
+</div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight-sideNav" aria-labelledby="side nav menu">
+
+    <div class="offcanvas-header">
+
+        <h5 id="offcanvasRightLabel">Schedule</h5>
+
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+
+    </div>
+
+    <div class="offcanvas-body">
+
+        <div class="dynamic-content">...</div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+    </main>
+
+
+
+    <!--Begin Footer-->
+
+    
+
+    <div data-ktc-search-exclude>
+
+        <div id="Partial-d79f3a3309b3423bb999263ba4bdf0b9"></div><script type="text/javascript">(function() { var PartialContainer_d79f3a3309b3423bb999263ba4bdf0b9 = document.getElementById('Partial-d79f3a3309b3423bb999263ba4bdf0b9'); var RequestObj = (XMLHttpRequest) ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');RequestObj.open('GET', '/Home/Footer?nodeGuid=1f0efafc-4fd1-4817-aaa9-482cd4a9268b&PWP57f5689392c54854bccac791a7d69f2f=true', true);RequestObj.send();RequestObj.onreadystatechange = function() {  if(RequestObj.readyState == 4) {     PartialContainer_d79f3a3309b3423bb999263ba4bdf0b9.innerHTML = (RequestObj.status == 200) ? RequestObj.responseText : '<!-- Error retrieving page content at /Home/Footer?nodeGuid=1f0efafc-4fd1-4817-aaa9-482cd4a9268b&PWP57f5689392c54854bccac791a7d69f2f=true -->';  }};})();</script>
+
+    </div>
+
+
+
+    <!-- End Footer -->
+
+
+
+<!--IvyChat Bot Script AOS-->
+
+
+
+<script type="text/javascript" src="https://bot.ivy.ai/bot/script/category/oZqgB5JbYLDWmyM4J3lnzR3Q2rav8eAX" referrerpolicy="no-referrer-when-downgrade" async></script>
+
+    
+
+    <script type="text/javascript">
+
+    function simpleSideNav_setupOffcanvas() {
+
+        const offcanvas = document.getElementById("offcanvasRight-sideNav");
+
+        offcanvas.addEventListener('show.bs.offcanvas', () => {
+
+            const sideNavContainer = document.getElementById("sideNav-3583abf7-4e02-4f44-a479-0e55706ae9b6");
+
+            offcanvas.querySelector(".dynamic-content").innerHTML = sideNavContainer.innerHTML;
+
+        });
+
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+
+        simpleSideNav_setupOffcanvas();
+
+    });
+
+    </script>
+
+
+
+    
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/gh/LieutenantPeacock/SmoothScroll@1.2.0/src/smoothscroll.min.js" integrity="sha384-UdJHYJK9eDBy7vML0TvJGlCpvrJhCuOPGTc7tHbA+jHEgCgjWpPbmMvmd/2bzdXU" crossorigin="anonymous"></script>
+
+
+
+
+
+    <script src="/Kentico/Scripts/jquery-3.5.1.js"></script>
+
+
+
+<script src="/Kentico/Scripts/forms/updatableFormHelper.js"></script>
+
+<script src="/Kentico/Content/FormComponents/FileUploader/file-uploader.js"></script>
+
+<script src="/Kentico/Content/FormComponents/USPhone/inputmask.js"></script>
+
+<script type="text/javascript" id="cookieinfo"
+
+        src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/Cookies.js"
+
+        data-bg="#500000"
+
+        data-fg="#FFFFFF"
+
+        data-link="#FCE300"
+
+        data-font-size="16px"
+
+        data-font-family="Open Sans"
+
+        data-text-align="left"
+
+        data-close-text="I Accept">
+
+</script>
+
+
+
+
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/jquery-accessibleMegaMenu.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/jquery-accessibleMegaMenuEnhancement.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/Accordion.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/AddToHome.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/CMSListMenu-A11y.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/FancyTables.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/FigureCaptionGrid.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/jcarousel.responsive.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/jquery.jcarousel.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/LeftNav.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/mediasite.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/MobileMenuHandler.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/MultisectionMenu.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/Paging.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/ScrollHandler.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/SearchBar-A11y.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/SkipNav.js"></script>
+
+<script src="//pitocdnscripts.as.tamu.edu/Scripts/Espresso-V1A/sticky-header.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+
+        //Progressive Web App Installation
+
+        //if ('serviceWorker' in navigator) {
+
+        //    window.addEventListener("load", () => {
+
+        //        navigator.serviceWorker.register('/serviceworker.js').then(() => {
+
+        //            console.log('%cService Worker Registered', "color:green;");
+
+        //        }).catch(err => {
+
+        //            console.error("%cPWA Registration Failed", "color:red;");
+
+        //            console.error(err);
+
+        //        });
+
+        //    });
+
+        //}
+
+        //addToHome("add-button");
+
+
+
+        //Toggle Sticky Menu and Skip Navigation settings
+
+        enableStickyMenu(false);
+
+        skipNav("skip", "main");
+
+
+
+        //Enable Collapsible
+
+        const mobile_menu = document.getElementById("mobile-side-nav");
+
+        document.getElementById("btn-close-menu").addEventListener("click", e => {
+
+            e.preventDefault();
+
+            mobile_menu.classList.add("collapsed");
+
+            setTimeout(() => {
+
+                document.querySelector(".nav-toggle");
+
+            }, 100);
+
+        });
+
+
+
+        document.getElementById("btn-close-menu").addEventListener("keypress", (e) => {
+
+            if (e.key === "Enter") {
+
+                e.preventDefault();
+
+                mobile_menu.classList.add("collapsed");
+
+                setTimeout(() => {
+
+                    document.querySelector(".nav-toggle");
+
+                }, 100);
+
+            }
+
+
+
+        });
+
+
+
+        //Set List of Accordions
+
+        const accordions = [].slice.call(document.querySelectorAll(".panel-link"));
+
+        if (accordions) {
+
+            accordionHelper(accordions);
+
+        }
+
+
+
+        // hide secondary nav if empty
+
+        window.addEventListener("DOMContentLoaded", () => {
+
+            const sencondaryNavContainer = document.getElementById("secondary-bar");
+
+            const secondaryNavListItems = document.querySelectorAll("nav > ul > li");
+
+            if (secondaryNavListItems.length === 0) sencondaryNavContainer.remove();
+
+        });
+
+
+
+    </script>
+
+
+
+
+
+</body>
+
+</html>
+
