@@ -1,0 +1,5 @@
+Summarize the pertinent content within the context of the question: {question}
+
+{context}
+
+---
