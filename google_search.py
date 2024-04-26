@@ -4,6 +4,7 @@ from config import AppConfig
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 
 config = AppConfig()
 
@@ -51,6 +52,22 @@ def scrape_content(url):
 
     return {'content': content}
 
+def save_as_html(results):
+    html_content = "<html>\n<head>\n<title>Search Results</title>\n</head>\n<body>\n"
+    
+    for result in results:
+        html_content += f"<h2><a href='{result['url']}'>{result['title']}</a></h2>\n"
+        html_content += f"<p>{result['description']}</p>\n"
+        html_content += f"<p><strong>Metadata:</strong><br>{result['metadata']}</p>\n"
+        html_content += "<hr>\n"
+    
+    html_content += "</body>\n</html>"
+    
+    with open('search_results.html', 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
+    print("\n\nSearch results saved in search_results.html")
+
 def google_custom_search_engine(query):
     # get the API KEY here: https://developers.google.com/custom-search/v1/overview
     API_KEY = config.GOOGLE_CSE_API_KEY
@@ -88,24 +105,31 @@ def google_custom_search_engine(query):
         
         results.append(result)
 
-    # Store results in a JSON file
-    with open('search_results.json', 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
+    save_as_html(results)
 
-    print("\n\nScraped results stored in search_results.json")
+    document = "search_results.html"
+    # content = load_document(document)
+    # print("content\n",content)
+    # Store results in a JSON file
+    # with open('search_results.json', 'w', encoding='utf-8') as f:
+    #     json.dump(results, f, ensure_ascii=False, indent=4)
+
+    # print("\n\nScraped results stored in search_results.json")
 
 if __name__=="__main__":
 
     query = "TAMU Spring Graduation Ceremony 2024"
+
     no_results = 1
     print("\nGetting {} relevant link{} through google search .......".format(no_results, "s" if no_results!=1 else ""))
-    get_relevant_links(query, no_results)
+    # get_relevant_links(query, no_results)
 
     query2 = "when does spring break start 2024 in tamu"
     print("\nGetting related answers using SerpAPI .......")
-    serpapi(query2)
+    # serpapi(query2)
 
     # the search query you want
-    query3 = "TAMU Spring Graduation Ceremony 2024"
+    # query3 = "TAMU Spring Graduation Ceremony 2024"
+    query4 = "What are the Professor James Caverlee's Recent publications?"
 
-    google_custom_search_engine(query3)
+    google_custom_search_engine(query4)
