@@ -1,11 +1,13 @@
 import logging
 
-from src.language_models.openai_language_model import OpenAILanguageModel
-
 logger = logging.getLogger(__name__)
 
 
-class LanguageModel(OpenAILanguageModel):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        logger.debug("Initializing LanguageModel")
+class LanguageModel:
+    def generate_prompt(self, context_text, question_text):
+        raise NotImplementedError(
+            "generate_prompt method must be implemented by subclasses")
+
+    def invoke(self, prompt):
+        raise NotImplementedError(
+            "invoke method must be implemented by subclasses")

@@ -1,4 +1,5 @@
 import logging
+import logging.config
 import os
 import shutil
 
@@ -54,6 +55,7 @@ class DatabaseGenerator:
 
 if __name__ == "__main__":
     config = AppConfig()
+    logging.config.dictConfig(config.logging_config)
 
     logger.info(f"Generating database from {
                 config.DATA_PATH} to {config.DATABASE_PATH}.")
