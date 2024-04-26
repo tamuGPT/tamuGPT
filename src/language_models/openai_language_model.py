@@ -34,6 +34,11 @@ class OpenAILanguageModel(LanguageModel):
                      f"{context_text} and question: {question_text}")
         return self.prompt_template.format(context=context_text, question=question_text)
 
+    def generate_summary_prompt(self, context_text, question_text):
+        logger.debug(f"Generating summary prompt with content:"
+                     f"{context_text} and question: {question_text}")
+        return self.prompt_template.format(context=context_text, question=question_text)
+
     def invoke(self, prompt):
         logger.debug(f"Predicting response with prompt: {prompt}")
         return self.model.invoke(prompt)
