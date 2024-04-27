@@ -1,3 +1,4 @@
+import json
 import os
 import logging
 
@@ -29,20 +30,10 @@ class OpenAILanguageModel(LanguageModel):
             raise FileNotFoundError(
                 f"Template file '{template_path}' not found.")
 
-    def generate_prompt(self, context_text, question_text):
-        logger.debug(f"Generating prompt with context:"
-                     f"{context_text} and question: {question_text}")
-        return self.prompt_template.format(context=context_text, question=question_text)
-
-    def generate_summary_prompt(self, context_text, question_text):
-        logger.debug(f"Generating summary prompt with content:"
-                     f"{context_text} and question: {question_text}")
-        return self.prompt_template.format(context=context_text, question=question_text)
-
-    def generate_rank_prompt(self, context_text, question_text):
-        logger.debug(f"Generating Ranking prompt with content:"
-                     f"{context_text} and question: {question_text}")
-        return self.prompt_template.format(context=context_text, question=question_text)
+    def generate_prompt(self, **kwargs):
+        logger.debug(f"Generating prompt with kwargs: {
+                     json.dumps(kwargs, indent=4)}")
+        return self.prompt_template.format(**kwargs)
 
     def invoke(self, prompt):
         logger.debug(f"Predicting response with prompt: {prompt}")

@@ -14,8 +14,8 @@ def rank_results_with_llm(config, query_text, cleaned_result_array, cleaned_sear
     for i in range(len(cleaned_result_array)):
         rank_input_text += f"Text {i + 1}:\n{cleaned_result_array[i]}\n\n"
     ranking_model = OpenAILanguageModel(config.RANK_TEMPLATE_PATH)
-    ranking_prompt = ranking_model.generate_summary_prompt(
-        rank_input_text, query_text)
+    ranking_prompt = ranking_model.generate_prompt(
+        context=rank_input_text, question=query_text)
 
     response = ranking_model.invoke(ranking_prompt)
     logger.info(f"\nRanked Response: {response.content}")

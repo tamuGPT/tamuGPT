@@ -24,8 +24,8 @@ def summarize_search_results_with_llm(config, query, results):
         # cleaned_results += middle_2000_words
 
         summarization_model = OpenAILanguageModel(config.SUMMARY_TEMPLATE_PATH)
-        summary_prompt = summarization_model.generate_summary_prompt(
-            cleaned_html, query)
+        summary_prompt = summarization_model.generate_prompt(
+            context=cleaned_html, question=query)
         response = summarization_model.invoke(summary_prompt)
         logger.info(f"\nResponse: {response}")
         logger.info(f"\nResponse Content: {response.content}")

@@ -47,7 +47,6 @@ def main():
 
     ranked_content = rank_results_with_llm(
         config, query_text, context_text_array, cleaned_search_results)
-
     logger.info(f"Length of Ranked Content: {len(ranked_content)}")
 
     model = OpenAILanguageModel(config.TEMPLATE_PATH)
@@ -57,11 +56,10 @@ def main():
     # Slice to get the first 3000 words
     first_3900_words = words[:3000]
 
-    prompt = model.generate_prompt(' '.join(first_3900_words), query_text)
+    context = ' '.join(first_3900_words)
+    prompt = model.generate_prompt(context=context, question=query_text)
     query_response = model.invoke(prompt)
     logger.info(f"\nQuery Response: {query_response}")
-    # get sources
-    # sources = [doc.metadata.get("source", None) for doc, _score in results]
 
     print("\n\n\n")
     sources = ["source1", "source2"]
