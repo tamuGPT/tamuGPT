@@ -85,7 +85,8 @@ def google_custom_search_engine(query):
     for item in data['items']:
         url = item['link']
         metadata = scrape_content(url)
-
+        if 'error' in metadata:
+            continue
         result = {
             'url': url,
             'title': item['title'],
