@@ -43,8 +43,11 @@ def scrape_content(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5)\
             AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36'}
     print(f"Scraping content from {url}")
-    response = requests.get(url, headers=headers)
-    if response.status_code != 200:
+    try:
+        response = requests.get(url, timeout=5, headers=headers)
+    except:
+        response = None
+    if response == None or response.status_code != 200:
         print(f"Failed to retrieve {url}")
         return {'content': '', 'error': f"Failed to retrieve {url}"}
 
@@ -73,7 +76,10 @@ def google_custom_search_engine(query):
     url = f"https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={SEARCH_ENGINE_ID}&q={query}&start={start}"
 
     # make the API request
-    data = requests.get(url).json()
+    try:
+        data = requests.get(url,timeout=5).json()
+    except:
+        data = {}
 
     # Check if search was successful
     if 'items' not in data:
