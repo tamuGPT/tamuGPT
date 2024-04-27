@@ -41,12 +41,13 @@ def main():
     # context_text = "\n\n---\n\n".join(
     #     [doc.page_content for doc, _score in results])
 
-    context_text, context_text_array, cleaned_search_results = summarize_search_results_with_llm(
+    context_text, context_text_array, cleaned_search_results, urls = summarize_search_results_with_llm(
         config, query_text, search_results)
     logger.info(f"Length of processed search context: {len(context_text)}")
 
-    ranked_content = rank_results_with_llm(
-        config, query_text, context_text_array, cleaned_search_results)
+    ranked_content, ranked_urls = rank_results_with_llm(
+        config, query_text, context_text_array, cleaned_search_results, urls)
+
     logger.info(f"Length of Ranked Content: {len(ranked_content)}")
 
     model = OpenAILanguageModel(config.TEMPLATE_PATH)
@@ -62,10 +63,11 @@ def main():
     logger.info(f"\nQuery Response: {query_response}")
 
     print("\n\n\n")
-    sources = ["source1", "source2"]
     logger.info(f"Query: {query_text}")
     logger.info(f"Response: {query_response.content}")
-    logger.info(f"Sources: {sources}")
+    logger.info(f"Sources:")
+    for url in ranked_urls:
+        logger.info(f"{url}")
 
 
 if __name__ == "__main__":

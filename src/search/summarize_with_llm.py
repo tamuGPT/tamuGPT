@@ -7,6 +7,7 @@ logger = logging.getLogger(__name__)
 
 
 def summarize_search_results_with_llm(config, query, results):
+    urls = []
     results = results[:7]
     cleaned_results = ""
     cleaned_result_array = []
@@ -34,5 +35,6 @@ def summarize_search_results_with_llm(config, query, results):
         cleaned_results += response.content
         cleaned_result_array.append(response.content)
         cleaned_search_results.append(cleaned_html)
+        urls.append(res['url'])
 
-    return cleaned_results, cleaned_result_array, cleaned_search_results
+    return cleaned_results, cleaned_result_array, cleaned_search_results, urls
