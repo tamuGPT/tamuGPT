@@ -21,13 +21,15 @@ def get_relevant_links(query, no_results):
     for result in results:
         print(result)
 
-#SERPAPI Google Search API
+# SERPAPI Google Search API
+
+
 def serpapi(query):
     params = {
-    "q": query,
-    "hl": "en",
-    "gl": "us",
-    "api_key": config.GOOGLE_SEARCH_API_KEY
+        "q": query,
+        "hl": "en",
+        "gl": "us",
+        "api_key": config.GOOGLE_SEARCH_API_KEY
     }
 
     search = GoogleSearch(params)
@@ -36,8 +38,12 @@ def serpapi(query):
     print("\nRetrieved results\n")
     print(answer_box)
 
+
 def scrape_content(url):
-    response = requests.get(url)
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5)\
+            AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36'}
+    print(f"Scraping content from {url}")
+    response = requests.get(url, headers=headers)
     if response.status_code != 200:
         print(f"Failed to retrieve {url}")
         return {'content': '', 'error': f"Failed to retrieve {url}"}
@@ -51,6 +57,7 @@ def scrape_content(url):
 
     return {'content': content}
 
+
 def google_custom_search_engine(query):
     # get the API KEY here: https://developers.google.com/custom-search/v1/overview
     API_KEY = config.GOOGLE_CSE_API_KEY
@@ -63,7 +70,8 @@ def google_custom_search_engine(query):
     # doc: https://developers.google.com/custom-search/v1/using_rest
     # calculating start, (page=2) => (start=11), (page=3) => (start=21)
     start = (page - 1) * 10 + 1
-    url = f"https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={SEARCH_ENGINE_ID}&q={query}&start={start}"
+    url = f"https://www.googleapis.com/customsearch/v1?key={
+        API_KEY}&cx={SEARCH_ENGINE_ID}&q={query}&start={start}"
 
     # make the API request
     data = requests.get(url).json()
@@ -78,14 +86,14 @@ def google_custom_search_engine(query):
     for item in data['items']:
         url = item['link']
         metadata = scrape_content(url)
-        
+
         result = {
             'url': url,
             'title': item['title'],
             'description': item.get('snippet', ''),
             'metadata': metadata
         }
-        
+
         results.append(result)
 
     # Store results in a JSON file
@@ -93,12 +101,15 @@ def google_custom_search_engine(query):
         json.dump(results, f, ensure_ascii=False, indent=4)
 
     print("\n\nScraped results stored in search_results.json")
+    return results
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
 
     query = "TAMU Spring Graduation Ceremony 2024"
     no_results = 1
-    print("\nGetting {} relevant link{} through google search .......".format(no_results, "s" if no_results!=1 else ""))
+    print("\nGetting {} relevant link{} through google search .......".format(
+        no_results, "s" if no_results != 1 else ""))
     get_relevant_links(query, no_results)
 
     query2 = "when does spring break start 2024 in tamu"
