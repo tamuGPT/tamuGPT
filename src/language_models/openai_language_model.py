@@ -5,6 +5,8 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 
 from src.language_models.language_model import LanguageModel
+from langchain_core.runnables import RunnableParallel, RunnablePassthrough
+from langchain_core.output_parsers import StrOutputParser
 
 logger = logging.getLogger(__name__)
 
@@ -39,6 +41,14 @@ class OpenAILanguageModel(LanguageModel):
                      f"{context_text} and question: {question_text}")
         return self.prompt_template.format(context=context_text, question=question_text)
 
-    def invoke(self, prompt):
-        logger.debug(f"Predicting response with prompt: {prompt}")
-        return self.model.invoke(prompt)
+    def invoke(self, query, vector_store):
+        parser = StrOutputParser()
+        chain = (
+            {"context": vector_store.as_retriever(), "question": RunnablePassthrough()}
+            | self.prompt_template
+            | self.model
+            | parser
+        )
+
+        logger.debug(f"Predicting response with prompt: {query}")
+        return chain.invoke(query)

@@ -13,6 +13,7 @@ class AppConfig:
         self.CRAWLED_DATA_PATH = os.path.join(self.DATA_PATH, "crawled")
         self.DOCUMENTS_PATH = os.path.join(self.DATA_PATH, "documents")
         self.DATABASE_PATH = os.path.join(self.DATA_PATH, "database")
+        self.INDEX_NAME = os.environ['INDEX_NAME']
 
         self.TEMPLATE_PATH = os.path.join(
             self.BASE_PATH, "src", "templates", "chat_template.txt")

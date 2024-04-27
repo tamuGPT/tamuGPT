@@ -1,4 +1,3 @@
-from googlesearch import search
 from serpapi import GoogleSearch
 from config import AppConfig
 import requests
@@ -7,19 +6,6 @@ import json
 
 config = AppConfig()
 
-
-def get_relevant_links(query, no_results):
-
-    # set query to search for in Google
-    query = "TAMU Spring Graduation Ceremony 2024"
-
-    # execute query and store search results
-    results = search(query, num_results=no_results)
-
-    print("\nRetrieved results\n")
-    # iterate over all search results and print them
-    for result in results:
-        print(result)
 
 #SERPAPI Google Search API
 def serpapi(query):
@@ -75,7 +61,7 @@ def google_custom_search_engine(query):
 
     results = []
 
-    for item in data['items']:
+    for item in data['items'][:3]:
         url = item['link']
         metadata = scrape_content(url)
         
@@ -89,23 +75,8 @@ def google_custom_search_engine(query):
         results.append(result)
 
     # Store results in a JSON file
-    with open('search_results.json', 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
+    # with open('search_results.json', 'w', encoding='utf-8') as f:
+    #     json.dump(results, f, ensure_ascii=False, indent=4)
 
-    print("\n\nScraped results stored in search_results.json")
-
-if __name__=="__main__":
-
-    query = "TAMU Spring Graduation Ceremony 2024"
-    no_results = 1
-    print("\nGetting {} relevant link{} through google search .......".format(no_results, "s" if no_results!=1 else ""))
-    get_relevant_links(query, no_results)
-
-    query2 = "when does spring break start 2024 in tamu"
-    print("\nGetting related answers using SerpAPI .......")
-    serpapi(query2)
-
-    # the search query you want
-    query3 = "TAMU Spring Graduation Ceremony 2024"
-
-    google_custom_search_engine(query3)
+    # print("\n\nScraped results stored in search_results.json")
+    return results
