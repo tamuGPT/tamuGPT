@@ -1,0 +1,343 @@
+{
+    "search_metadata": {
+        "id": "662c2e2e8cd878c5a4264d90",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/acf919dc50fd00e8/662c2e2e8cd878c5a4264d90.json",
+        "created_at": "2024-04-26 22:43:58 UTC",
+        "processed_at": "2024-04-26 22:43:58 UTC",
+        "google_url": "https://www.google.com/search?q=when+does+spring+break+start+2024+in+tamu&oq=when+does+spring+break+start+2024+in+tamu&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/acf919dc50fd00e8/662c2e2e8cd878c5a4264d90.html",
+        "total_time_taken": 0.57
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "when does spring break start 2024 in tamu",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "when does spring break start 2024 in tamu",
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What month is spring break in Texas in 2024?",
+            "snippet": "Some universities opt to grant students time off during the final week of March, followed by another break to observe Easter. In 2024, the majority of colleges and universities will observe their Spring Break holiday between 11 March and 1 April.",
+            "title": "When is Spring Break 2024? Complete list of dates for US ...",
+            "date": "Mar 20, 2024",
+            "link": "https://en.as.com/latest_news/when-is-spring-break-2024-complete-list-of-dates-for-us-colleges-and-universities-n/#:~:text=Some%20universities%20opt%20to%20grant,11%20March%20and%201%20April.",
+            "displayed_link": "https://en.as.com › latest_news › when-is-spring-break-2...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_KotvDZu69NAcMe5xHXQrO-s8D0K7P-chQlu9awh_3Q&s",
+            "source_logo": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/f3097ab85def3b3dd0532d675a30efd382f238bd542ffdaddf36d092fb9ae90d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJXaGF0IG1vbnRoIGlzIHNwcmluZyBicmVhayBpbiBUZXhhcyBpbiAyMDI0PyIsImxrIjoiR2loM2FHRjBJRzF2Ym5Sb0lHbHpJSE53Y21sdVp5QmljbVZoYXlCcGJpQjBaWGhoY3lBeU1ESTAiLCJicyI6ImMtT0s1ZElKejBnc1Vjak56eXZKVU1nc1ZpZ3VLTXJNUzFkSUtrcE56RmJJekZNSVNhMUlMQVl4akF5TVRPd2xIbFFhYVVscGxPUFZVZ0xXQWxMUDVjUWw2NUZmcnBDVEQ1UUhxblJVODBWUmJTLXgwOVpJVGtvbUEwbE5vbG91aWhvdVR5NGxaRE93T3RCZW9rUGJTRUZLTGdPWFFyQ2J1RHk0RkR5TG9WNEN1YVVrdGJoRUliLWdKRE1fTHpFSDZzUHQ3RWFLVXZKQV9SQnZnSnlEcVV5QUVRQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJXaGF0IG1vbnRoIGlzIHNwcmluZyBicmVhayBpbiBUZXhhcyBpbiAyMDI0PyIsImxrIjoiR2loM2FHRjBJRzF2Ym5Sb0lHbHpJSE53Y21sdVp5QmljbVZoYXlCcGJpQjBaWGhoY3lBeU1ESTAiLCJicyI6ImMtT0s1ZElKejBnc1Vjak56eXZKVU1nc1ZpZ3VLTXJNUzFkSUtrcE56RmJJekZNSVNhMUlMQVl4akF5TVRPd2xIbFFhYVVscGxPUFZVZ0xXQWxMUDVjUWw2NUZmcnBDVEQ1UUhxblJVODBWUmJTLXgwOVpJVGtvbUEwbE5vbG91aWhvdVR5NGxaRE93T3RCZW9rUGJTRUZLTGdPWFFyQ2J1RHk0RkR5TG9WNEN1YVVrdGJoRUliLWdKRE1fTHpFSDZzUHQ3RWFLVXZKQV9SQnZnSnlEcVV5QUVRQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "How long is A&M spring break?",
+            "title": "2023 Spring Semester",
+            "link": "https://pharmacy.tamu.edu/calendar/academic-calendar.html",
+            "displayed_link": "https://pharmacy.tamu.edu › calendar › academic-calendar",
+            "source_logo": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/f3097ab85def3b3dd0532d675a30efd3b22fd3f42da106936dbf917141231a61.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyBBXHUwMDI2TSBzcHJpbmcgYnJlYWs/IiwibGsiOiJHaHhvYjNjZ2JHOXVaeUJwY3lCaEptMGdjM0J5YVc1bklHSnlaV0ZyIiwiYnMiOiJjLU9LNWRJSnowZ3NVY2pOenl2SlVNZ3NWaWd1S01yTVMxZElLa3BOekZiSXpGTUlTYTFJTEFZeGpBeU1UT3dsSGxRYWFVbHBsT1BWVWdMV0FsTFA1Y1FsNjVGZnJwQ1RENVFIcW5SVTgwVlJiUy14MDlaSVRrb21BMGxOb2xvdWlob3VUeTRsWkRPd090QmVva1BiU0VGS0xnT1hRckNidUR5NEZEeUxvVjRDdWFVa3RiaEVJYi1nSkRNX0x6RUg2c1B0N0VhS1V2SkFfUkJ2Z0p5RHFVeUFFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyBBXHUwMDI2TSBzcHJpbmcgYnJlYWs%2FIiwibGsiOiJHaHhvYjNjZ2JHOXVaeUJwY3lCaEptMGdjM0J5YVc1bklHSnlaV0ZyIiwiYnMiOiJjLU9LNWRJSnowZ3NVY2pOenl2SlVNZ3NWaWd1S01yTVMxZElLa3BOekZiSXpGTUlTYTFJTEFZeGpBeU1UT3dsSGxRYWFVbHBsT1BWVWdMV0FsTFA1Y1FsNjVGZnJwQ1RENVFIcW5SVTgwVlJiUy14MDlaSVRrb21BMGxOb2xvdWlob3VUeTRsWkRPd090QmVva1BiU0VGS0xnT1hRckNidUR5NEZEeUxvVjRDdWFVa3RiaEVJYi1nSkRNX0x6RUg2c1B0N0VhS1V2SkFfUkJ2Z0p5RHFVeUFFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "How long is spring break in Texas?",
+            "snippet": "Most districts will observe spring break from March 11–15. Staff workdays and other holidays differ. Districts will wrap up the school year between May 22 and June 5.",
+            "title": "Harris County School Districts Comprehensive Calendar",
+            "link": "https://www.hcde-texas.org/comprehensive-calendar#:~:text=Most%20districts%20will%20observe%20spring,May%2022%20and%20June%205.",
+            "displayed_link": "https://www.hcde-texas.org › comprehensive-calendar",
+            "source_logo": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/f3097ab85def3b3dd0532d675a30efd3b3567c0d784a4237e7a5bb1ea06690ac.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyBzcHJpbmcgYnJlYWsgaW4gVGV4YXM/IiwibGsiOiJHaDVvYjNjZ2JHOXVaeUJwY3lCemNISnBibWNnWW5KbFlXc2dkR1Y0WVhNIiwiYnMiOiJjLU9LNWRJSnowZ3NVY2pOenl2SlVNZ3NWaWd1S01yTVMxZElLa3BOekZiSXpGTUlTYTFJTEFZeGpBeU1UT3dsSGxRYWFVbHBsT1BWVWdMV0FsTFA1Y1FsNjVGZnJwQ1RENVFIcW5SVTgwVlJiUy14MDlaSVRrb21BMGxOb2xvdWlob3VUeTRsWkRPd090QmVva1BiU0VGS0xnT1hRckNidUR5NEZEeUxvVjRDdWFVa3RiaEVJYi1nSkRNX0x6RUg2c1B0N0VhS1V2SkFfUkJ2Z0p5RHFVeUFFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyBzcHJpbmcgYnJlYWsgaW4gVGV4YXM%2FIiwibGsiOiJHaDVvYjNjZ2JHOXVaeUJwY3lCemNISnBibWNnWW5KbFlXc2dkR1Y0WVhNIiwiYnMiOiJjLU9LNWRJSnowZ3NVY2pOenl2SlVNZ3NWaWd1S01yTVMxZElLa3BOekZiSXpGTUlTYTFJTEFZeGpBeU1UT3dsSGxRYWFVbHBsT1BWVWdMV0FsTFA1Y1FsNjVGZnJwQ1RENVFIcW5SVTgwVlJiUy14MDlaSVRrb21BMGxOb2xvdWlob3VUeTRsWkRPd090QmVva1BiU0VGS0xnT1hRckNidUR5NEZEeUxvVjRDdWFVa3RiaEVJYi1nSkRNX0x6RUg2c1B0N0VhS1V2SkFfUkJ2Z0p5RHFVeUFFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Is Texas A&M test optional 2024?",
+            "snippet": "Does Texas A&M require SAT and/or ACT scores? Freshman applicants are not required to provide test scores to complete their admission file.",
+            "title": "College Readiness - Texas A&M Admissions",
+            "link": "https://admissions.tamu.edu/resources/future-students/college-readiness#:~:text=Does%20Texas%20A%26M%20require%20SAT,to%20complete%20their%20admission%20file.",
+            "displayed_link": "https://admissions.tamu.edu › resources › future-students",
+            "source_logo": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/f3097ab85def3b3dd0532d675a30efd3ec345ac1452205131f6fcdb5ba55a219.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJJcyBUZXhhcyBBXHUwMDI2TSB0ZXN0IG9wdGlvbmFsIDIwMjQ/IiwibGsiOiJHaDlwY3lCMFpYaGhjeUJoSm0wZ2RHVnpkQ0J2Y0hScGIyNWhiQ0F5TURJMCIsImJzIjoiYy1PSzVkSUp6MGdzVWNqTnp5dkpVTWdzVmlndUtNck1TMWRJS2twTnpGYkl6Rk1JU2ExSUxBWXhqQXlNVE93bEhsUWFhVWxwbE9QVlVnTFdBbExQNWNRbDY1RmZycENURDVRSHFuUlU4MFZSYlMteDA5WklUa29tQTBsTm9sb3VpaG91VHk0bFpET3dPdEJlb2tQYlNFRktMZ09YUXJDYnVEeTRGRHlMb1Y0Q3VhVWt0YmhFSWItZ0pETV9MekVINnNQdDdFYUtVdkpBX1JCdmdKeURxVXlBRVFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdWRtbExTVFZqT1hGSGFEbEVTVTF2TW1aWU5GbGtjV2N4YUhoblZuRTBhakpQVkV4SGEycElTbUpVUkdwRllYSm5SSEoyV0hOb1lWVkZaWEpsVmtRNU4ybzFibE53RWhkTWFUUnpXbkpxZEVKS1IyaHdkRkZRYVdKSFdEaEJUUm9pUVZCWWFHMDFZV2xhTFRsNlVITjJVRmhZV1Uxb01rRkZhbTl4YVdka2JVRk1RUSIsImZjdiI6IjMiLCJlaSI6IkxpNHNacmp0QkpHaHB0UVBpYkdYOEFNIiwicWMiOiJDaWwzYUdWdUlHUnZaWE1nYzNCeWFXNW5JR0p5WldGcklITjBZWEowSURJd01qUWdhVzRnZEdGdGRSQUFmZjRnVWo4IiwicXVlc3Rpb24iOiJJcyBUZXhhcyBBXHUwMDI2TSB0ZXN0IG9wdGlvbmFsIDIwMjQ%2FIiwibGsiOiJHaDlwY3lCMFpYaGhjeUJoSm0wZ2RHVnpkQ0J2Y0hScGIyNWhiQ0F5TURJMCIsImJzIjoiYy1PSzVkSUp6MGdzVWNqTnp5dkpVTWdzVmlndUtNck1TMWRJS2twTnpGYkl6Rk1JU2ExSUxBWXhqQXlNVE93bEhsUWFhVWxwbE9QVlVnTFdBbExQNWNRbDY1RmZycENURDVRSHFuUlU4MFZSYlMteDA5WklUa29tQTBsTm9sb3VpaG91VHk0bFpET3dPdEJlb2tQYlNFRktMZ09YUXJDYnVEeTRGRHlMb1Y0Q3VhVWt0YmhFSWItZ0pETV9MekVINnNQdDdFYUtVdkpBX1JCdmdKeURxVXlBRVFBIiwiaWQiOiJmY18xIn0%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "2024 Spring Semester",
+        "link": "https://catalog.tamu.edu/graduate/academic-calendar/",
+        "displayed_link": "https://catalog.tamu.edu › graduate › academic-calendar",
+        "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/acba4952c5af604d38a12667d42535c08cf79b942367d180.png",
+        "source": "Texas A&M",
+        "contents": {
+            "table": [
+                [
+                    "Date",
+                    "Event"
+                ],
+                [
+                    "March 11-15",
+                    "Monday-Friday. Spring break. No classes."
+                ],
+                [
+                    "March 27",
+                    "Wednesday. Last day to apply for spring 2024 graduation online."
+                ],
+                [
+                    "March 28 - April 12",
+                    "Thursday -Friday. Preregistration for the 2024 first term, second term, 10-week summer semester and fall semester."
+                ]
+            ],
+            "formatted": [
+                {
+                    "date": "March 11-15",
+                    "event": "Monday-Friday. Spring break. No classes."
+                },
+                {
+                    "date": "March 27",
+                    "event": "Wednesday. Last day to apply for spring 2024 graduation online."
+                },
+                {
+                    "date": "March 28 - April 12",
+                    "event": "Thursday -Friday. Preregistration for the 2024 first term, second term, 10-week summer semester and fall semester."
+                }
+            ]
+        }
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Spring 2024 - Registrar - Texas A&M University",
+            "link": "https://registrar.tamu.edu/academic-calendar/spring-2024",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://registrar.tamu.edu/academic-calendar/spring-2024&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECBgQAQ",
+            "displayed_link": "https://registrar.tamu.edu › academic-calendar › spring-2...",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b4d0b2bf3b46c9422eb1cc2909a1adc521.png",
+            "snippet": "Academic Calendar - Spring 2024 · Monday, December 18th, 2023 · Friday, January 12th, 2024 · Monday, January 15th, 2024 · Tuesday, January 16th, 2024 · Tuesday, ...",
+            "snippet_highlighted_words": [
+                "December 18th, 2023"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Spring Break",
+                        "link": "https://calendar.tamu.edu/registrar/event/294721-spring-break"
+                    },
+                    {
+                        "title": "Spring Redefined Day",
+                        "link": "https://calendar.tamu.edu/registrar/event/294692-spring-redefined-day"
+                    },
+                    {
+                        "title": "Commencement and...",
+                        "link": "https://calendar.tamu.edu/registrar/event/294681-commencement-and-commissioning-college-station"
+                    },
+                    {
+                        "title": "Preregistration",
+                        "link": "https://calendar.tamu.edu/registrar/event/294715-preregistration"
+                    }
+                ]
+            },
+            "source": "Texas A&M"
+        },
+        {
+            "position": 2,
+            "title": "University Academic Calendars",
+            "link": "https://catalog.tamu.edu/undergraduate/academic-calendar/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://catalog.tamu.edu/undergraduate/academic-calendar/&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECBcQAQ",
+            "displayed_link": "https://catalog.tamu.edu › academic-calendar",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b469f7091205113bc6ce218f1005b9ef49.png",
+            "snippet": "Monday, 8:00 AM, Spring Semester Begins (All Students). January 15, Monday, Martin Luther King, Jr. Day, Holiday. February 5-7, Monday - Wednesday, Mock Boards ...",
+            "snippet_highlighted_words": [
+                "Monday, 8:00 AM"
+            ],
+            "source": "Texas A&M"
+        },
+        {
+            "position": 3,
+            "title": "academic-calendar.pdf",
+            "link": "https://catalog.tamu.edu/graduate/academic-calendar/academic-calendar.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://catalog.tamu.edu/graduate/academic-calendar/academic-calendar.pdf&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECDgQAQ",
+            "displayed_link": "https://catalog.tamu.edu › graduate › academic-cal...",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b4c7d5f7bdd02def760e32ddf00dac46e3.png",
+            "snippet": "Faculty and Staff holiday. All dates and times are subject to change. 2024 Spring Semester. December 18. Monday. Graduation application ...",
+            "snippet_highlighted_words": [
+                "December 18"
+            ],
+            "source": "Texas A&M"
+        },
+        {
+            "position": 4,
+            "title": "Spring Break - texas a&m events",
+            "link": "https://calendar.tamu.edu/registrar/event/294721-spring-break",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://calendar.tamu.edu/registrar/event/294721-spring-break&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECDkQAQ",
+            "displayed_link": "https://calendar.tamu.edu › event › 294721-spring-break",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b4a3f74515c5c1f88f3dadbd58f9a23fa6.png",
+            "snippet": "Close Event \"Spring Break\". March 11 - 15, 2024. Office of the Registrar. Spring Break. All Day (until March 15) Add to my calendar. Google Calendar; Yahoo ...",
+            "snippet_highlighted_words": [
+                "March 11 - 15, 2024"
+            ],
+            "source": "Texas A&M"
+        },
+        {
+            "position": 5,
+            "title": "Fiscal Year 2024 Holiday Schedule - Human Resources",
+            "link": "https://www.tamus.edu/hr/holiday/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tamus.edu/hr/holiday/&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECDsQAQ",
+            "displayed_link": "https://www.tamus.edu › holiday",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b48c2ffec5150129006730050e3d7b848d.png",
+            "snippet": "Texas A&M University Texas A&M University Health Science Center ; Nov. 23-24, 2023 · Dec. 25, 2023 – Jan. 1, 2024 · Jan. 15, 2024 · May 27, 2024 · June 19, 2024.",
+            "snippet_highlighted_words": [
+                "June 19, 2024"
+            ],
+            "source": "The Texas A&M University System"
+        },
+        {
+            "position": 6,
+            "title": "Academic Calendars and Registration Schedules",
+            "link": "https://catalog.tamuct.edu/undergraduate_catalog/general-information/academic20calendars20and20final20exam20schedule/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://catalog.tamuct.edu/undergraduate_catalog/general-information/academic20calendars20and20final20exam20schedule/&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECDcQAQ",
+            "displayed_link": "https://catalog.tamuct.edu › general-information",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b4f28d8e8891e49641db6eb28d374f0137.png",
+            "snippet": "October 21, 2024, Class Schedule Published For Spring and Summer Semester ; October 21, 2024, Advising Begins for Spring Semester ; October 22, 2024, Deadline for ...",
+            "snippet_highlighted_words": [
+                "2024",
+                "Schedule",
+                "2024",
+                "Begins",
+                "Spring Semester",
+                "2024"
+            ],
+            "source": "Texas A&M University - Central Texas"
+        },
+        {
+            "position": 7,
+            "title": "Academic Calendar, 2023-2024 FALL SEMESTER 2023",
+            "link": "https://www.tamucc.edu/academics/assets/documents/academic-calendar.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tamucc.edu/academics/assets/documents/academic-calendar.pdf&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECD0QAQ",
+            "displayed_link": "https://www.tamucc.edu › assets › documents › a...",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b4ed9a10276ae9b97ecf64a94ce5a245d3.png",
+            "date": "Aug 28, 2023",
+            "snippet": "FALL SEMESTER 2023. 16 Week term (Fall Full Term): August 28- December 13. August 21. Faculty Start Date. August 28. Classes begin.",
+            "snippet_highlighted_words": [
+                "SEMESTER",
+                "Start",
+                "begin"
+            ],
+            "source": "Texas A&M University-Corpus Christi"
+        },
+        {
+            "position": 8,
+            "title": "Spring 2024 Semester-at-a-Glance",
+            "link": "https://asc.tamu.edu/getmedia/4522b7fa-6b40-4556-ac85-069b3edd9029/Spring-2024-Semester-at-a-Glance_accessible.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://asc.tamu.edu/getmedia/4522b7fa-6b40-4556-ac85-069b3edd9029/Spring-2024-Semester-at-a-Glance_accessible.pdf&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECD8QAQ",
+            "displayed_link": "https://asc.tamu.edu › getmedia › Spring-2024-Se...",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b41b992a44e8588db2d0becbe38a0c353a.png",
+            "snippet": "Spring 2024 Semester-at-a-Glance. Sunday. Monday ... Spring Break. 12 No Classes. Spring Break. 13 No Classes ... begins. 29. No Classes. Reading Day. 30. 31. Apr 1.",
+            "snippet_highlighted_words": [
+                "2024",
+                "Spring Break",
+                "Spring Break",
+                "begins"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "page": 1
+                    },
+                    "extensions": [
+                        "1 page"
+                    ]
+                }
+            },
+            "source": "Academic Success Center"
+        },
+        {
+            "position": 9,
+            "title": "academic-calendar-2024-2025.pdf",
+            "link": "https://www.tamiu.edu/academiccalendar/documents/academic-calendar-2024-2025.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tamiu.edu/academiccalendar/documents/academic-calendar-2024-2025.pdf&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4QFnoECDUQAQ",
+            "displayed_link": "https://www.tamiu.edu › documents › academic-...",
+            "favicon": "https://serpapi.com/searches/662c2e2e8cd878c5a4264d90/images/35db6483aae5d4bf25e0cce71a8971b40dfcd25b00ab8333c7edf9b1d923c739.jpeg",
+            "date": "Apr 1, 2024",
+            "snippet": "Midterm Grades are due. Oct 19. Saturday. Mid-Semester. Nov 4. Monday. Registration opens for Wintermester and Spring 2025.",
+            "snippet_highlighted_words": [
+                "are",
+                "Semester",
+                "Spring"
+            ],
+            "source": "TAMIU Home"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "When does spring break start 2024 in tamu texas",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=When+does+spring+break+start+2024+in+tamu+texas&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAg8EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=When+does+spring+break+start+2024+in+tamu+texas"
+        },
+        {
+            "block_position": 1,
+            "query": "When does spring break start 2024 in tamu calendar",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=When+does+spring+break+start+2024+in+tamu+calendar&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAhBEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=When+does+spring+break+start+2024+in+tamu+calendar"
+        },
+        {
+            "block_position": 1,
+            "query": "tamu academic calendar 2024-2025",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=tamu+academic+calendar+2024-2025&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAhAEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=tamu+academic+calendar+2024-2025"
+        },
+        {
+            "block_position": 1,
+            "query": "texas a&m, spring break 2024",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=Texas+A%26M,+Spring+Break+2024&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAhCEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Texas+A%26M%2C+Spring+Break+2024"
+        },
+        {
+            "block_position": 1,
+            "query": "tamu academic calendar spring 2024",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=TAMU+Academic+Calendar+spring+2024&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAg-EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TAMU+Academic+Calendar+spring+2024"
+        },
+        {
+            "block_position": 1,
+            "query": "tamu academic calendar 2024 pdf",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=TAMU+Academic+Calendar+2024+pdf&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TAMU+Academic+Calendar+2024+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "tamu academic calendar 2024-2025 pdf",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=TAMU+academic+Calendar+2024-2025+pdf&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=TAMU+academic+Calendar+2024-2025+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "texas a&m graduation dates 2024",
+            "link": "https://www.google.com/search?sca_esv=0e9d35a69ed69d23&sca_upv=1&q=Texas+A%26M+Graduation+dates+2024&sa=X&ved=2ahUKEwi4vJqd-uCFAxWRkIkEHYnYBT4Q1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Texas+A%26M+Graduation+dates+2024"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=when+does+spring+break+start+2024+in+tamu&oq=when+does+spring+break+start+2024+in+tamu&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=when+does+spring+break+start+2024+in+tamu&oq=when+does+spring+break+start+2024+in+tamu&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=when+does+spring+break+start+2024+in+tamu&oq=when+does+spring+break+start+2024+in+tamu&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=when+does+spring+break+start+2024+in+tamu&oq=when+does+spring+break+start+2024+in+tamu&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=when+does+spring+break+start+2024+in+tamu&oq=when+does+spring+break+start+2024+in+tamu&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=when+does+spring+break+start+2024+in+tamu&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=when+does+spring+break+start+2024+in+tamu&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=when+does+spring+break+start+2024+in+tamu&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=when+does+spring+break+start+2024+in+tamu&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=when+does+spring+break+start+2024+in+tamu&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=when+does+spring+break+start+2024+in+tamu&start=40"
+        }
+    }
+}

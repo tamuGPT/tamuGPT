@@ -3,3 +3,5 @@
 !crawled
 !database
 !documents
+!samples/
+!samples/*.json

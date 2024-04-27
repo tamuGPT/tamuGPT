@@ -3,6 +3,7 @@
 *.DS_Store
 *.npy
 *.html
+search_results.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
