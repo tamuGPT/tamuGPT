@@ -1,7 +1,6 @@
 import logging
 import re
 from src.language_models.openai_language_model import OpenAILanguageModel
-from src.search.data_processor import clean_html, truncate_html_with_nltk
 
 logger = logging.getLogger(__name__)
 
@@ -9,7 +8,7 @@ logger = logging.getLogger(__name__)
 def rank_results_with_llm(config, query_text, search_results):
     rank_input_text = ""
 
-    ranked_order = []
+    ranked_summary_list = []
     ranked_search_results = []
 
     for idx, result_item in enumerate(search_results):
@@ -28,7 +27,7 @@ def rank_results_with_llm(config, query_text, search_results):
     if match:
         rank_order_string = match.group(1)
     else:
-        return ranked_order
+        return search_results, ''.join(ranked_summary_list)
 
     rank_order_list = rank_order_string.split(",")
 
@@ -37,7 +36,7 @@ def rank_results_with_llm(config, query_text, search_results):
         results = re.findall(pattern, rank_order_list[i])
         rank_order_list[i] = ''.join(results)
         rank = int(rank_order_list[i])
-        ranked_order.append(search_results[rank - 1]["truncated_html"])
-        ranked_search_results.append(search_results[rank - 1])
+        ranked_summary_list.append(search_results[rank-1]["truncated_html"])
+        ranked_search_results.append(search_results[rank-1])
 
-    return ranked_search_results, ''.join(ranked_order),
+    return ranked_search_results, ''.join(ranked_summary_list),
