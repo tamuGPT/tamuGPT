@@ -31,8 +31,7 @@ class OpenAILanguageModel(LanguageModel):
                 f"Template file '{template_path}' not found.")
 
     def generate_prompt(self, **kwargs):
-        logger.debug(f"Generating prompt with kwargs: {
-                     json.dumps(kwargs, indent=4)}")
+        logger.debug(f"Generating prompt with kwargs: {json.dumps(kwargs, indent=4)}")
         return self.prompt_template.format(**kwargs)
 
     def invoke(self, prompt):
