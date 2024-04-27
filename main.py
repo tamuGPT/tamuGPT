@@ -1,11 +1,8 @@
-import os
 import argparse
 import logging
 import logging.config
-import nltk
 
 from config import AppConfig
-from src.database import Database
 from src.language_models.openai_language_model import OpenAILanguageModel
 from google_search import google_custom_search_engine
 from src.search.summarize_with_llm import summarize_search_results_with_llm
@@ -36,7 +33,6 @@ def main():
 
     ranked_searched_results, ranked_context_string = rank_results_with_llm(
         config, query_text, filtered_search_results)
-
     logger.info(f"Length of Ranked Content: {len(ranked_context_string)}")
     words = ranked_context_string.split()
     first_3900_words = words[:3000]
