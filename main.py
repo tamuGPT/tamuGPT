@@ -28,6 +28,10 @@ def main():
 
     logger.info(f"Searching for query using google search: {query_text}")
     search_results = google_custom_search_engine(query_text)
+    search_results = search_results[:3]
+    # search_results = []
+    db = Database(config.PINECONE_API_KEY)
+    search_results.extend(db.search(query_text=query_text))
     logger.info(f"Retrieved {len(search_results)} results.")
 
     # db = Database(config.DATABASE_PATH)

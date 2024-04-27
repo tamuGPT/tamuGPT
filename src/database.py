@@ -1,15 +1,28 @@
 import logging
 
-from langchain.vectorstores.chroma import Chroma
+from pinecone import Pinecone
+from langchain_openai import OpenAIEmbeddings
 
 logger = logging.getLogger(__name__)
 
 
 class Database:
-    def __init__(self, db_path):
-        logger.debug(f"Initializing database with path: {db_path}")
-        self.db = Chroma(persist_directory=db_path)
+    def __init__(self, api_key):
+        self.pc = Pinecone(api_key=api_key)
+        self.index = self.pc.Index('langchainvector')
+        logger.debug(f"Initializing database")
 
     def search(self, query_text, k=3):
+        embeddings = OpenAIEmbeddings()
+        vectors = embeddings.embed_query(query_text)
+        results = self.index.query(vector=vectors,top_k=k,include_metadata=True)
         logger.debug(f"Searching database for query: {query_text}")
-        return self.db.similarity_search_with_relevance_scores(query_text, k=k)
+        query_results = []
+        for result in results['matches']:
+            qresult = {
+                'url': result['metadata']['source'],
+                'metadata': {'content': result['metadata']['text']}
+            }
+
+            query_results.append(qresult)
+        return query_results
