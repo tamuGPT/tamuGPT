@@ -18,6 +18,8 @@ class AppConfig:
             self.BASE_PATH, "src", "templates", "chat_template.txt")
         self.SUMMARY_TEMPLATE_PATH = os.path.join(
             self.BASE_PATH, "src", "templates", "summary_template.txt")
+        self.RANK_TEMPLATE_PATH = os.path.join(
+            self.BASE_PATH, "src", "templates", "rank_template.txt")
 
         # throw error if not found
         self.OPENAPI_API_KEY = os.environ["OPENAI_API_KEY"]

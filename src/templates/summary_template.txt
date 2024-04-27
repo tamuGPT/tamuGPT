@@ -1,4 +1,4 @@
-Summarize the pertinent content within the context of the question: {question}
+Summarize the pertinent content within the context of the question within 400 words: {question}
 
 {context}
 

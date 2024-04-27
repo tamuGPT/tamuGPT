@@ -29,6 +29,17 @@ def clean_html(html):
 
 def truncate_html_with_nltk(html_content, max_tokens=10000):
     tokens = word_tokenize(html_content)
+    # number_of_token_docs = len(tokens)//max_tokens
+    # truncated_html = []
+    # for i in range(number_of_token_docs+1):
+    #     if i == number_of_token_docs:
+    #         truncated_tokens = tokens[i*max_tokens:]
+    #     else:
+    #         truncated_tokens = tokens[i*max_tokens:(i+1)*max_tokens]
+    #     truncated_html.append(' '.join(truncated_tokens))
+
+    # return truncated_html
+
     truncated_tokens = tokens[:max_tokens]
     truncated_html = ' '.join(truncated_tokens)
     return truncated_html

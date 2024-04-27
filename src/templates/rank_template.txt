@@ -1,0 +1,6 @@
+Rank the following texts based on how well they answer the question: {question}.
+Give me the answer in [Text1, Text2, Text3, ...] format.
+
+{context}
+
+---

@@ -9,12 +9,13 @@ logger = logging.getLogger(__name__)
 def summarize_search_results_with_llm(config, query, results):
     results = results[:7]
     cleaned_results = ""
+    cleaned_result_array = []
+    cleaned_search_results = []
     for res in results:
         html_content = res["metadata"]["content"]
         cleaned_html = clean_html(html_content)
         cleaned_html = truncate_html_with_nltk(cleaned_html, 5000)
         logger.info("Length of cleaned html: %d", len(cleaned_html.split()))
-
         # words = cleaned_html.split()
         # middle_index = len(words) // 2
         # start_index = max(0, middle_index - 1000)
@@ -31,5 +32,7 @@ def summarize_search_results_with_llm(config, query, results):
         logger.info(f"Length of response content: "
                     f"{len(response.content)}\n\n\n")
         cleaned_results += response.content
+        cleaned_result_array.append(response.content)
+        cleaned_search_results.append(cleaned_html)
 
-    return cleaned_results
+    return cleaned_results, cleaned_result_array, cleaned_search_results

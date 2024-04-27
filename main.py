@@ -2,12 +2,15 @@ import os
 import argparse
 import logging
 import logging.config
+import nltk
+
 
 from config import AppConfig
 from src.database import Database
 from src.language_models.openai_language_model import OpenAILanguageModel
 from google_search import google_custom_search_engine
 from src.search.summarize_with_llm import summarize_search_results_with_llm
+from src.search.rank_with_llm import rank_results_with_llm
 
 logger = logging.getLogger(__name__)
 
@@ -38,12 +41,23 @@ def main():
     # context_text = "\n\n---\n\n".join(
     #     [doc.page_content for doc, _score in results])
 
-    context_text = summarize_search_results_with_llm(
+    context_text, context_text_array, cleaned_search_results = summarize_search_results_with_llm(
         config, query_text, search_results)
     logger.info(f"Length of processed search context: {len(context_text)}")
 
+    ranked_content = rank_results_with_llm(
+        config, query_text, context_text_array, cleaned_search_results)
+
+    logger.info(f"Length of Ranked Content: {len(ranked_content)}")
+
     model = OpenAILanguageModel(config.TEMPLATE_PATH)
-    prompt = model.generate_prompt(context_text, query_text)
+    # prompt = model.generate_prompt(context_text, query_text)
+
+    words = ranked_content.split()
+    # Slice to get the first 3000 words
+    first_3900_words = words[:3000]
+
+    prompt = model.generate_prompt(' '.join(first_3900_words), query_text)
     query_response = model.invoke(prompt)
     logger.info(f"\nQuery Response: {query_response}")
     # get sources
