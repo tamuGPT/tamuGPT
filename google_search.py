@@ -1,43 +1,40 @@
 from googlesearch import search
-from serpapi import GoogleSearch
 from config import AppConfig
 import requests
 from bs4 import BeautifulSoup
 import json
+import logging
+import PyPDF2
+import io
 
 config = AppConfig()
 
+def scrape_pdf_content(url):
 
-def get_relevant_links(query, no_results):
+    try:
+        response = requests.get(url)
+        
+        if response.status_code == 200:
+            pdf_reader = PyPDF2.PdfReader(io.BytesIO(response.content))
 
-    # set query to search for in Google
-    query = "TAMU Spring Graduation Ceremony 2024"
+            # Get the number of pages in the PDF
+            num_pages = len(pdf_reader.pages)
 
-    # execute query and store search results
-    results = search(query, num_results=no_results)
+            content = ''
 
-    print("\nRetrieved results\n")
-    # iterate over all search results and print them
-    for result in results:
-        print(result)
+            # Iterate over each page and extract the text
+            for page_num in range(num_pages):
+                page = pdf_reader.pages[page_num]
+                content += page.extract_text()
 
-# SERPAPI Google Search API
+            return {'content': content}
+        else:
+            logging.error(f"Error downloading PDF from {url}: Status code {response.status_code}")
+            return {'error': f"Error downloading PDF: Status code {response.status_code}"}
 
-
-def serpapi(query):
-    params = {
-        "q": query,
-        "hl": "en",
-        "gl": "us",
-        "api_key": config.GOOGLE_SEARCH_API_KEY
-    }
-
-    search = GoogleSearch(params)
-    results = search.get_dict()
-    answer_box = results["answer_box"]
-    print("\nRetrieved results\n")
-    print(answer_box)
-
+    except Exception as e:
+        logging.error(f"Error scraping PDF content from {url}: {e}")
+        return {'error': str(e)}
 
 def scrape_content(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5)\
@@ -52,12 +49,6 @@ def scrape_content(url):
         return {'content': '', 'error': f"Failed to retrieve {url}"}
 
     content = response.text
-
-    # Save HTML content to a file
-    # filename = f"scraped_html_files/{url.replace('/', '_').replace(':', '_').replace('.', '_')}.html"
-    # with open(filename, 'w', encoding='utf-8') as f:
-    #     f.write(content)
-
     return {'content': content}
 
 
@@ -90,9 +81,16 @@ def google_custom_search_engine(query):
 
     for item in data['items']:
         url = item['link']
-        metadata = scrape_content(url)
+
+        #Scraping the contents of the document if the url is a pdf link
+        if url.lower().endswith('.pdf'):
+            metadata = scrape_pdf_content(url)
+        else:
+            metadata = scrape_content(url)
+
         if 'error' in metadata:
             continue
+
         result = {
             'url': url,
             'title': item['title'],
@@ -108,21 +106,3 @@ def google_custom_search_engine(query):
 
     print("\n\nScraped results stored in search_results.json")
     return results
-
-
-if __name__ == "__main__":
-
-    query = "TAMU Spring Graduation Ceremony 2024"
-    no_results = 1
-    print("\nGetting {} relevant link{} through google search .......".format(
-        no_results, "s" if no_results != 1 else ""))
-    get_relevant_links(query, no_results)
-
-    query2 = "when does spring break start 2024 in tamu"
-    print("\nGetting related answers using SerpAPI .......")
-    serpapi(query2)
-
-    # the search query you want
-    query3 = "TAMU Spring Graduation Ceremony 2024"
-
-    google_custom_search_engine(query3)
