@@ -4,7 +4,7 @@ import logging.config
 
 from config import AppConfig
 from src.language_models.openai_language_model import OpenAILanguageModel
-from google_search import google_custom_search_engine
+from src.search.google_search import google_custom_search_engine
 from src.search.summarize_with_llm import summarize_search_results_with_llm
 from src.search.rank_with_llm import rank_results_with_llm
 
@@ -23,7 +23,7 @@ def main():
     logger.info(f"Query text: {query_text}")
 
     logger.info(f"Searching for query using google search: {query_text}")
-    search_results = google_custom_search_engine(query_text)
+    search_results = google_custom_search_engine(config, query_text)
     logger.info(f"Retrieved {len(search_results)} results.")
 
     filtered_search_results, summarized_context_string = summarize_search_results_with_llm(

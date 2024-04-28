@@ -3,7 +3,6 @@ import re
 import nltk
 
 from bs4 import BeautifulSoup
-
 from nltk.tokenize import word_tokenize
 
 nltk.download('punkt')
@@ -39,6 +38,9 @@ def truncate_html_with_nltk(html_content, max_tokens=10000):
     #     truncated_html.append(' '.join(truncated_tokens))
 
     # return truncated_html
+
+    if len(tokens) <= max_tokens:
+        return html_content
 
     truncated_tokens = tokens[:max_tokens]
     truncated_html = ' '.join(truncated_tokens)
