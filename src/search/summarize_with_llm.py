@@ -15,16 +15,15 @@ def summarize_search_results_with_llm(config, query, search_results):
         html_content = result_item["metadata"]["content"]
         cleaned_html = clean_html(html_content)
         truncated_html = truncate_html_with_nltk(cleaned_html, 5000)
-        logger.info("Length of cleaned html: %d", len(truncated_html.split()))
+        logger.info(f"Length of cleaned html: {len(truncated_html.split())}")
 
         summarization_model = OpenAILanguageModel(config.SUMMARY_TEMPLATE_PATH)
         summary_prompt = summarization_model.generate_prompt(
             context=truncated_html, question=query)
         response = summarization_model.invoke(summary_prompt)
 
-        logger.info(f"\nResponse: {response}")
-        logger.info(f"\nResponse Content: {response.content}")
-        logger.info(f"Length of response content: "
+        logger.info(f"Summarization Response: {response}")
+        logger.info(f"Length of summarization response content: "
                     f"{len(response.content)}\n\n\n")
 
         result_item['truncated_html'] = truncated_html

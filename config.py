@@ -23,7 +23,6 @@ class AppConfig:
 
         # throw error if not found
         self.OPENAPI_API_KEY = os.environ["OPENAI_API_KEY"]
-        self.GOOGLE_SEARCH_API_KEY = os.environ["GOOGLE_SEARCH_API_KEY"]
         self.GOOGLE_CSE_ID = os.environ["GOOGLE_CSE_ID"]
         self.GOOGLE_CSE_API_KEY = os.environ["GOOGLE_CSE_API_KEY"]
 

@@ -46,6 +46,7 @@ def main():
     print("\n\n\n")
     logger.info(f"Query: {query_text}")
     logger.info(f"Response: {query_response.content}")
+    print("")
     logger.info(f"Sources: ")
     for idx, search_item in enumerate(ranked_searched_results):
         logger.info(f"{idx+1}. {search_item['url']}")

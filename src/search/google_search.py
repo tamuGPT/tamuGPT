@@ -102,5 +102,6 @@ def google_custom_search_engine(config, query):
     with open(os.path.join(config.BASE_PATH, "search_results.json"), 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 
-    logger.info("\n\nScraped results stored in search_results.json")
+    logger.info("Scraped results stored in search_results.json")
+    print("\n")
     return results
