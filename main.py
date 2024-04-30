@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 
 def main():
-    config = AppConfig(log_level="DEBUG")
+    config = AppConfig(log_level="INFO")
     logging.config.dictConfig(config.logging_config)
 
     parser = argparse.ArgumentParser()
@@ -28,12 +28,9 @@ def main():
 
     filtered_search_results, summarized_context_string = summarize_search_results_with_llm(
         config, query_text, search_results)
-    logger.info(f"Length of processed search context: "
-                f"{len(summarized_context_string)}")
 
     ranked_searched_results, ranked_context_string = rank_results_with_llm(
         config, query_text, filtered_search_results)
-    logger.info(f"Length of Ranked Content: {len(ranked_context_string)}")
     words = ranked_context_string.split()
     first_3900_words = words[:3000]
     context = ' '.join(first_3900_words)
@@ -41,15 +38,16 @@ def main():
     model = OpenAILanguageModel(config.TEMPLATE_PATH)
     prompt = model.generate_prompt(context=context, question=query_text)
     query_response = model.invoke(prompt)
-    logger.info(f"\nQuery Response: {query_response}")
+    logger.debug(f"\nQuery Response: {query_response}")
 
-    print("\n\n\n")
+    print("\n\n")
     logger.info(f"Query: {query_text}")
     logger.info(f"Response: {query_response.content}")
     print("")
     logger.info(f"Sources: ")
     for idx, search_item in enumerate(ranked_searched_results):
         logger.info(f"{idx+1}. {search_item['url']}")
+    print("\n")
 
 
 if __name__ == "__main__":

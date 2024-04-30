@@ -39,7 +39,7 @@ class AppConfig:
             },
             "handlers": {
                 "console": {
-                    "level": "INFO",
+                    "level": level,
                     "class": "logging.StreamHandler",
                     "formatter": "standard"
                 },

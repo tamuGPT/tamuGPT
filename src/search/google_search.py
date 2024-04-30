@@ -40,7 +40,7 @@ def scrape_pdf_content(url):
 def scrape_content(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5)\
             AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36'}
-    logger.info(f"Scraping content from {url}")
+    logger.info(f"Retrieving content from {url}")
     try:
         response = requests.get(url, timeout=5, headers=headers)
     except:
@@ -102,6 +102,5 @@ def google_custom_search_engine(config, query):
     with open(os.path.join(config.BASE_PATH, "search_results.json"), 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 
-    logger.info("Scraped results stored in search_results.json")
-    print("\n")
+    logger.debug("Scraped results stored in search_results.json")
     return results
